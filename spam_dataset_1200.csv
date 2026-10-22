@@ -1,0 +1,1201 @@
+id,message,label,category
+1,You won first place in the college coding competition The attached presentation has more details.,0,NORMAL
+2,The team won the client award for best project delivery The coordinator has already been informed.,0,NORMAL
+3,"You qualify for a special cash bonus, respond today Offer valid this weekend. Confirmation is required.",1,SPAM
+4,"Sara, Exclusive reward notice: receive your bonus by responding now The notification was generated automatically.",1,SPAM
+5,Your unclaimed prize is ready for immediate collection Do not miss this opportunity. This is the final notification.,1,SPAM
+6,The contest winners will receive certificates at college This was discussed in the meeting Tuesday.,0,NORMAL
+7,Reply now to activate your special promotional reward Do not miss this opportunity.,1,SPAM
+8,Claim your cash reward using the link before it expires Do not miss this opportunity. Use the provided message instructions.,1,SPAM
+9,"Open this link to collect the reward reserved for you Amount: ₹50,000.",1,SPAM
+10,Important message: Cash offer available now for selected customers only,1,SPAM
+11,Your free Python class starts tomorrow morning This relates to the Playwright course.,0,NORMAL
+12,Urgent winner notification: claim your reward today Offer valid Thursday.,1,SPAM
+13,Claim your cash reward using the link before it expires Respond before Thursday. Availability is limited.,1,SPAM
+14,"Congratulations, you are eligible for an instant cash benefit",1,SPAM
+15,Your account password was changed successfully The attached report has more details.,0,NORMAL
+16,Your free Python class starts tomorrow morning The attached invoice has more details. Further details are available in the portal.,0,NORMAL
+17,You won first place in the college coding competition Please complete it by tomorrow.,0,NORMAL
+18,You are today's selected winner for our promotional giveaway Respond before Thursday.,1,SPAM
+19,"Cathy, Free lunch will be provided during tomorrow's workshop Please keep this for your records.",0,NORMAL
+20,Your prize claim is pending; follow the link to complete it,1,SPAM
+21,Your number was chosen in our lucky draw for a cash award Respond before Tuesday. Use the provided message instructions.,1,SPAM
+22,The team won the client award for best project delivery,0,NORMAL
+23,Please open the link and review the meeting notes Please complete it by tomorrow.,0,NORMAL
+24,Please use this link to submit your completed assignment This was discussed in the meeting this evening.,0,NORMAL
+25,Click the shared link to access the React source code Please complete it by Wednesday.,0,NORMAL
+26,Free lunch will be provided during tomorrow's workshop This was discussed in the meeting tomorrow. The team will discuss it in the next meeting.,0,NORMAL
+27,Final reminder: your promotional gift expires today Respond before tomorrow. This is the final notification.,1,SPAM
+28,"Important message: You qualify for a special cash bonus, respond today This is the final notification.",1,SPAM
+29,"Cash offer available now for selected customers only Amount: ₹50,000. Use the provided message instructions.",1,SPAM
+30,Click the link to unlock your promotional cash gift Offer valid Thursday.,1,SPAM
+31,Free lunch will be provided during tomorrow's workshop The attached source code has more details.,0,NORMAL
+32,Your account was selected for an exclusive prize draw Offer valid this weekend. Confirmation is required.,1,SPAM
+33,Your number was chosen in our lucky draw for a cash award Selected reward: lottery prize.,1,SPAM
+34,Click to receive the prize assigned to your account Do not miss this opportunity. The notification was generated automatically.,1,SPAM
+35,"Elan, Urgent winner notification: claim your reward today This is the final notification.",1,SPAM
+36,You are eligible for a free gift and cash bonus Respond before today.,1,SPAM
+37,Your unclaimed prize is ready for immediate collection Use the provided message instructions.,1,SPAM
+38,Your free Python class starts tomorrow morning The attached project plan has more details. The team will discuss it in the next meeting.,0,NORMAL
+39,Team update: The contest winners will receive certificates at college,0,NORMAL
+40,Receive an exclusive gift by confirming your contact details Use the provided message instructions.,1,SPAM
+41,"Meena, Your prize claim is pending; follow the link to complete it Use the provided message instructions.",1,SPAM
+42,Receive an exclusive gift by confirming your contact details Selected reward: cash reward. The notification was generated automatically.,1,SPAM
+43,Open this link to collect the reward reserved for you Respond before tomorrow. Availability is limited.,1,SPAM
+44,Limited time offer: confirm now to collect your bonus Respond before Wednesday. The notification was generated automatically.,1,SPAM
+45,The reward points from your purchase were added to your account Please complete it by this weekend.,0,NORMAL
+46,Important message: You have won a promotional bonus; claim it using this link,1,SPAM
+47,You are eligible for a free gift and cash bonus Offer valid Thursday. Availability is limited.,1,SPAM
+48,"Winner alert: collect your lottery payment before midnight Amount: ₹2,500.",1,SPAM
+49,Open this link to collect the reward reserved for you Respond before tomorrow. This is the final notification.,1,SPAM
+50,The team received a performance reward from management The attached presentation has more details.,0,NORMAL
+51,Team update: You have been selected to present the project tomorrow,0,NORMAL
+52,"Free shopping voucher available after you confirm your entry Amount: ₹1,000. Use the provided message instructions.",1,SPAM
+53,The offer letter has been uploaded to the HR portal The attached project plan has more details.,0,NORMAL
+54,Please review the account reconciliation document Please contact the coordinator if you have questions.,0,NORMAL
+55,"Exclusive reward notice: receive your bonus by responding now Amount: ₹50,000. Availability is limited.",1,SPAM
+56,Open this link to collect the reward reserved for you The notification was generated automatically.,1,SPAM
+57,Urgent winner notification: claim your reward today Confirmation is required.,1,SPAM
+58,Please claim your approved travel reimbursement No immediate response is required.,0,NORMAL
+59,The free software license is available for all employees The attached meeting notes has more details.,0,NORMAL
+60,You have been selected to present the project tomorrow The coordinator has already been informed.,0,NORMAL
+61,Urgent: verify your details to receive the promised reward Offer valid Monday. Availability is limited.,1,SPAM
+62,"Congratulations, you are eligible for an instant cash benefit Selected reward: special gift.",1,SPAM
+63,"Congratulations, your mobile number won a lottery reward Respond before this morning. The notification was generated automatically.",1,SPAM
+64,"Open this link to collect the reward reserved for you Amount: ₹5,000.",1,SPAM
+65,The promotional design draft is ready for team review This was discussed in the meeting today.,0,NORMAL
+66,Please review the account reconciliation document Please complete it by Thursday.,0,NORMAL
+67,Urgent: verify your details to receive the promised reward Selected reward: bonus. Use the provided message instructions.,1,SPAM
+68,Winner alert: collect your lottery payment before midnight Offer valid this evening. This is the final notification.,1,SPAM
+69,"Exclusive reward notice: receive your bonus by responding now Amount: ₹2,500.",1,SPAM
+70,Your reimbursement claim has been approved by finance Please complete it by this evening.,0,NORMAL
+71,"Kumar, Final reminder: your promotional gift expires today Availability is limited.",1,SPAM
+72,Your bonus payment is included in this month's salary The attached document has more details. The team will discuss it in the next meeting.,0,NORMAL
+73,Please claim your approved travel reimbursement This relates to the AI course. No immediate response is required.,0,NORMAL
+74,The team received a performance reward from management This was discussed in the meeting Monday.,0,NORMAL
+75,"A gift voucher is waiting for you, claim it immediately Offer valid Tuesday.",1,SPAM
+76,"Priya, Your prize claim is pending; follow the link to complete it",1,SPAM
+77,Your bonus payment is included in this month's salary The coordinator has already been informed.,0,NORMAL
+78,Please claim your approved travel reimbursement Please contact the coordinator if you have questions. No immediate response is required.,0,NORMAL
+79,"Team update: Congratulations, your assignment passed the final review",0,NORMAL
+80,Team update: Your account statement is available in the employee portal,0,NORMAL
+81,The offer letter has been uploaded to the HR portal Please contact the coordinator if you have questions. No immediate response is required.,0,NORMAL
+82,"Bala, Your bonus payment is included in this month's salary",0,NORMAL
+83,"Meena, Your number was chosen in our lucky draw for a cash award",1,SPAM
+84,"Important message: Congratulations, collect your surprise reward today",1,SPAM
+85,Important message: You are today's selected winner for our promotional giveaway Availability is limited.,1,SPAM
+86,"Congratulations, your assignment passed the final review This relates to the Testing course.",0,NORMAL
+87,You are eligible for a free gift and cash bonus,1,SPAM
+88,"Bala, Open this link to collect the reward reserved for you",1,SPAM
+89,Special promotion: claim your free voucher before the deadline Offer valid this weekend.,1,SPAM
+90,Your number was chosen in our lucky draw for a cash award Respond before this evening.,1,SPAM
+91,"Click to receive the prize assigned to your account Amount: ₹50,000.",1,SPAM
+92,Your account statement is available in the employee portal This relates to the FastAPI course. No immediate response is required.,0,NORMAL
+93,"Congratulations, your assignment passed the final review This was discussed in the meeting this weekend. Please keep this for your records.",0,NORMAL
+94,Please click the attendance link before joining the class Please contact the coordinator if you have questions.,0,NORMAL
+95,Free shopping voucher available after you confirm your entry,1,SPAM
+96,Your unclaimed prize is ready for immediate collection Selected reward: promotional reward.,1,SPAM
+97,Important message: Urgent winner notification: claim your reward today,1,SPAM
+98,Your number was chosen in our lucky draw for a cash award Do not miss this opportunity. Availability is limited.,1,SPAM
+99,Urgent winner notification: claim your reward today Use the provided message instructions.,1,SPAM
+100,You are today's selected winner for our promotional giveaway Respond before today.,1,SPAM
+101,Your free Python class starts tomorrow morning This was discussed in the meeting today.,0,NORMAL
+102,"Priya, Please claim your approved travel reimbursement",0,NORMAL
+103,Urgent project issue: please join the support call Please complete it by Monday.,0,NORMAL
+104,Exclusive reward notice: receive your bonus by responding now Selected reward: special gift.,1,SPAM
+105,Click the shared link to access the React source code This was discussed in the meeting Tuesday.,0,NORMAL
+106,Limited time offer: confirm now to collect your bonus Selected reward: bonus.,1,SPAM
+107,"Sara, Your free Python class starts tomorrow morning Further details are available in the portal.",0,NORMAL
+108,"Meena, Your account password was changed successfully",0,NORMAL
+109,Please click the attendance link before joining the class The team will discuss it in the next meeting.,0,NORMAL
+110,"Sara, Free shopping voucher available after you confirm your entry Confirmation is required.",1,SPAM
+111,The offer letter has been uploaded to the HR portal This was discussed in the meeting Wednesday.,0,NORMAL
+112,Team update: The offer letter has been uploaded to the HR portal The coordinator has already been informed.,0,NORMAL
+113,"A gift voucher is waiting for you, claim it immediately Do not miss this opportunity. Confirmation is required.",1,SPAM
+114,"Click to receive the prize assigned to your account Amount: ₹25,000. This is the final notification.",1,SPAM
+115,"A gift voucher is waiting for you, claim it immediately Amount: ₹10,000.",1,SPAM
+116,Important message: Your prize claim is pending; follow the link to complete it,1,SPAM
+117,Immediate action required to release your lottery winnings Selected reward: shopping coupon. Availability is limited.,1,SPAM
+118,Your bonus payment is included in this month's salary This was discussed in the meeting Friday. The coordinator has already been informed.,0,NORMAL
+119,Click to receive the prize assigned to your account Do not miss this opportunity.,1,SPAM
+120,Your number was chosen in our lucky draw for a cash award,1,SPAM
+121,Reply now to activate your special promotional reward Do not miss this opportunity. The notification was generated automatically.,1,SPAM
+122,Exclusive reward notice: receive your bonus by responding now Offer valid Monday.,1,SPAM
+123,You have won a promotional bonus; claim it using this link Do not miss this opportunity.,1,SPAM
+124,Your number was chosen in our lucky draw for a cash award Respond before this morning.,1,SPAM
+125,You have been selected to present the project tomorrow Please contact the coordinator if you have questions. The coordinator has already been informed.,0,NORMAL
+126,Your bonus payment is included in this month's salary Please complete it by Tuesday.,0,NORMAL
+127,Free lunch will be provided during tomorrow's workshop This was discussed in the meeting today. Please keep this for your records.,0,NORMAL
+128,Your account password was changed successfully The attached presentation has more details. No immediate response is required.,0,NORMAL
+129,Your unclaimed prize is ready for immediate collection Do not miss this opportunity. Confirmation is required.,1,SPAM
+130,Special promotion: claim your free voucher before the deadline Respond before this morning.,1,SPAM
+131,Please open the link and review the meeting notes This relates to the Java course.,0,NORMAL
+132,Click to receive the prize assigned to your account Use the provided message instructions.,1,SPAM
+133,Open this link to collect the reward reserved for you Respond before today.,1,SPAM
+134,Special promotion: claim your free voucher before the deadline Amount: ₹500.,1,SPAM
+135,Team update: The contest winners will receive certificates at college Please keep this for your records.,0,NORMAL
+136,Claim your cash reward using the link before it expires Do not miss this opportunity. This is the final notification.,1,SPAM
+137,"Your account was selected for an exclusive prize draw Amount: ₹10,000. The notification was generated automatically.",1,SPAM
+138,Team update: Please review the account reconciliation document No immediate response is required.,0,NORMAL
+139,Final reminder: your promotional gift expires today Respond before today. Confirmation is required.,1,SPAM
+140,Open this link to collect the reward reserved for you Availability is limited.,1,SPAM
+141,The free software license is available for all employees,0,NORMAL
+142,Important message: You are eligible for a free gift and cash bonus,1,SPAM
+143,"Congratulations, your mobile number won a lottery reward Selected reward: gift voucher.",1,SPAM
+144,Click to receive the prize assigned to your account,1,SPAM
+145,"Congratulations, your mobile number won a lottery reward Respond before this morning.",1,SPAM
+146,"Meena, The customer reward report is attached for review No immediate response is required.",0,NORMAL
+147,Important message: Urgent: verify your details to receive the promised reward The notification was generated automatically.,1,SPAM
+148,Winner alert: collect your lottery payment before midnight Do not miss this opportunity. This is the final notification.,1,SPAM
+149,Your account statement is available in the employee portal Please complete it by Friday.,0,NORMAL
+150,"John, Your bonus payment is included in this month's salary No immediate response is required.",0,NORMAL
+151,Claim your cash reward using the link before it expires Selected reward: bonus.,1,SPAM
+152,"Arun, Free lunch will be provided during tomorrow's workshop Further details are available in the portal.",0,NORMAL
+153,"A gift voucher is waiting for you, claim it immediately Do not miss this opportunity.",1,SPAM
+154,The reward points from your purchase were added to your account Please complete it by Tuesday.,0,NORMAL
+155,Receive an exclusive gift by confirming your contact details,1,SPAM
+156,Your unclaimed prize is ready for immediate collection Respond before Thursday. Use the provided message instructions.,1,SPAM
+157,Claim your cash reward using the link before it expires Do not miss this opportunity.,1,SPAM
+158,"Bala, Special promotion: claim your free voucher before the deadline",1,SPAM
+159,Please confirm your attendance for the free training session Please contact the coordinator if you have questions.,0,NORMAL
+160,"Anu, Your account statement is available in the employee portal",0,NORMAL
+161,"John, You have won a promotional bonus; claim it using this link",1,SPAM
+162,The project prize ceremony is scheduled for Friday Please contact the coordinator if you have questions. The coordinator has already been informed.,0,NORMAL
+163,The project prize ceremony is scheduled for Friday Please complete it by Friday.,0,NORMAL
+164,Important message: Act now to receive the money assigned to your number,1,SPAM
+165,"Your prize claim is pending; follow the link to complete it Amount: ₹5,000.",1,SPAM
+166,"Arun, You have been selected to receive a cash prize today",1,SPAM
+167,Please review the account reconciliation document The attached report has more details. No immediate response is required.,0,NORMAL
+168,"A gift voucher is waiting for you, claim it immediately Respond before Wednesday.",1,SPAM
+169,Team update: Please click the attendance link before joining the class,0,NORMAL
+170,Please confirm your attendance for the free training session The attached source code has more details.,0,NORMAL
+171,"Congratulations, you are eligible for an instant cash benefit Selected reward: cash reward.",1,SPAM
+172,Please review the account reconciliation document Please contact the coordinator if you have questions. The coordinator has already been informed.,0,NORMAL
+173,"Ravi, Final reminder: your promotional gift expires today",1,SPAM
+174,The contest winners will receive certificates at college Please contact the coordinator if you have questions.,0,NORMAL
+175,The project prize ceremony is scheduled for Friday Please contact the coordinator if you have questions. No immediate response is required.,0,NORMAL
+176,Cash offer available now for selected customers only Selected reward: shopping coupon.,1,SPAM
+177,You are eligible for a free gift and cash bonus Respond before this morning.,1,SPAM
+178,Your free Python class starts tomorrow morning Please complete it by tomorrow.,0,NORMAL
+179,Final reminder: your promotional gift expires today Do not miss this opportunity. Confirmation is required.,1,SPAM
+180,Immediate action required to release your lottery winnings Respond before Monday.,1,SPAM
+181,"Meena, Congratulations, your mobile number won a lottery reward",1,SPAM
+182,Click the link to unlock your promotional cash gift Offer valid Monday. This is the final notification.,1,SPAM
+183,"David, The team won the client award for best project delivery Please keep this for your records.",0,NORMAL
+184,"A gift voucher is waiting for you, claim it immediately Amount: ₹50,000. Use the provided message instructions.",1,SPAM
+185,"Priya, Congratulations to everyone who won the internal hackathon",0,NORMAL
+186,Please open the link and review the meeting notes Please contact the coordinator if you have questions. The team will discuss it in the next meeting.,0,NORMAL
+187,Urgent winner notification: claim your reward today Respond before today.,1,SPAM
+188,Winner alert: collect your lottery payment before midnight Offer valid today.,1,SPAM
+189,Winner alert: collect your lottery payment before midnight Offer valid tomorrow.,1,SPAM
+190,You have been selected to receive a cash prize today Selected reward: bonus.,1,SPAM
+191,The free software license is available for all employees The coordinator has already been informed.,0,NORMAL
+192,Claim your cash reward using the link before it expires Offer valid Monday.,1,SPAM
+193,"Exclusive reward notice: receive your bonus by responding now Amount: ₹1,000.",1,SPAM
+194,"Kumar, Urgent winner notification: claim your reward today",1,SPAM
+195,The team received a performance reward from management This relates to the AI course.,0,NORMAL
+196,You are today's selected winner for our promotional giveaway Respond before this morning. This is the final notification.,1,SPAM
+197,Your account password was changed successfully No immediate response is required.,0,NORMAL
+198,The reward points from your purchase were added to your account The attached report has more details.,0,NORMAL
+199,Special promotion: claim your free voucher before the deadline Do not miss this opportunity.,1,SPAM
+200,Cash offer available now for selected customers only Do not miss this opportunity. This is the final notification.,1,SPAM
+201,Click to receive the prize assigned to your account Respond before Thursday.,1,SPAM
+202,Please use this link to submit your completed assignment This was discussed in the meeting this weekend.,0,NORMAL
+203,"Elan, Limited time offer: confirm now to collect your bonus",1,SPAM
+204,Important message: Click the link to unlock your promotional cash gift,1,SPAM
+205,Congratulations on completing the training program The coordinator has already been informed.,0,NORMAL
+206,You have won a promotional bonus; claim it using this link Do not miss this opportunity. The notification was generated automatically.,1,SPAM
+207,Click the shared link to access the React source code The team will discuss it in the next meeting.,0,NORMAL
+208,Click the shared link to access the React source code The attached assignment has more details.,0,NORMAL
+209,You are eligible for a free gift and cash bonus Offer valid this weekend.,1,SPAM
+210,Congratulations on completing the training program The attached project plan has more details.,0,NORMAL
+211,"Congratulations, your assignment passed the final review No immediate response is required.",0,NORMAL
+212,"Arun, Congratulations to everyone who won the internal hackathon",0,NORMAL
+213,The project prize ceremony is scheduled for Friday The attached meeting notes has more details.,0,NORMAL
+214,"Ravi, Your prize claim is pending; follow the link to complete it",1,SPAM
+215,Team update: You won first place in the college coding competition The coordinator has already been informed.,0,NORMAL
+216,You have won a promotional bonus; claim it using this link Offer valid Monday. Confirmation is required.,1,SPAM
+217,"Cash offer available now for selected customers only Amount: ₹25,000. The notification was generated automatically.",1,SPAM
+218,The team received a performance reward from management,0,NORMAL
+219,Urgent project issue: please join the support call This was discussed in the meeting this morning.,0,NORMAL
+220,The promotional design draft is ready for team review This relates to the AI course.,0,NORMAL
+221,"David, Immediate action required to release your lottery winnings Confirmation is required.",1,SPAM
+222,Team update: The cash reimbursement will be credited after approval,0,NORMAL
+223,Important message: Receive an exclusive gift by confirming your contact details This is the final notification.,1,SPAM
+224,"John, Open this link to collect the reward reserved for you",1,SPAM
+225,"Congratulations, you are eligible for an instant cash benefit Do not miss this opportunity. Use the provided message instructions.",1,SPAM
+226,The contest winners will receive certificates at college Please complete it by this morning. The team will discuss it in the next meeting.,0,NORMAL
+227,Team update: Your reimbursement claim has been approved by finance The team will discuss it in the next meeting.,0,NORMAL
+228,The free software license is available for all employees Please keep this for your records.,0,NORMAL
+229,Reply now to activate your special promotional reward Offer valid this weekend.,1,SPAM
+230,You are eligible for a free gift and cash bonus Offer valid today.,1,SPAM
+231,"Cathy, The team won the client award for best project delivery",0,NORMAL
+232,"Bala, You have been selected to receive a cash prize today",1,SPAM
+233,Winner alert: collect your lottery payment before midnight,1,SPAM
+234,Immediate action required to release your lottery winnings Offer valid Monday.,1,SPAM
+235,Act now to receive the money assigned to your number Selected reward: lottery prize.,1,SPAM
+236,Your account was selected for an exclusive prize draw Selected reward: special gift.,1,SPAM
+237,Please claim your approved travel reimbursement This relates to the FastAPI course. No immediate response is required.,0,NORMAL
+238,"Free shopping voucher available after you confirm your entry Amount: ₹10,000.",1,SPAM
+239,Please click the attendance link before joining the class This was discussed in the meeting Monday.,0,NORMAL
+240,You won first place in the college coding competition This relates to the Machine Learning course. Further details are available in the portal.,0,NORMAL
+241,"Meena, Final reminder: your promotional gift expires today",1,SPAM
+242,"Cash offer available now for selected customers only Amount: ₹5,000. This is the final notification.",1,SPAM
+243,Click the shared link to access the React source code This relates to the Machine Learning course. Further details are available in the portal.,0,NORMAL
+244,Urgent project issue: please join the support call Please complete it by today. The team will discuss it in the next meeting.,0,NORMAL
+245,Receive an exclusive gift by confirming your contact details Selected reward: lottery prize.,1,SPAM
+246,"Cathy, Please review the account reconciliation document",0,NORMAL
+247,Please click the attendance link before joining the class Please contact the coordinator if you have questions. No immediate response is required.,0,NORMAL
+248,Your bonus payment is included in this month's salary This relates to the Playwright course.,0,NORMAL
+249,Your bonus payment is included in this month's salary This was discussed in the meeting Tuesday.,0,NORMAL
+250,Click the link to download the project document Please contact the coordinator if you have questions.,0,NORMAL
+251,"Congratulations, your mobile number won a lottery reward Selected reward: lottery prize.",1,SPAM
+252,Team update: The team received a performance reward from management No immediate response is required.,0,NORMAL
+253,"Winner alert: collect your lottery payment before midnight Amount: ₹10,000.",1,SPAM
+254,The project prize ceremony is scheduled for Friday This was discussed in the meeting tomorrow. Please keep this for your records.,0,NORMAL
+255,Team update: Congratulations to everyone who won the internal hackathon,0,NORMAL
+256,"Cathy, Your number was chosen in our lucky draw for a cash award",1,SPAM
+257,"Anu, Congratulations, collect your surprise reward today",1,SPAM
+258,The reward points from your purchase were added to your account The attached schedule has more details.,0,NORMAL
+259,Free shopping voucher available after you confirm your entry Do not miss this opportunity. Availability is limited.,1,SPAM
+260,"You qualify for a special cash bonus, respond today Selected reward: shopping coupon.",1,SPAM
+261,Special promotion: claim your free voucher before the deadline Amount: ₹500. Confirmation is required.,1,SPAM
+262,Important message: Act now to receive the money assigned to your number This is the final notification.,1,SPAM
+263,"Kumar, Your free Python class starts tomorrow morning",0,NORMAL
+264,The free software license is available for all employees Please complete it by Tuesday.,0,NORMAL
+265,"You qualify for a special cash bonus, respond today Amount: ₹50,000.",1,SPAM
+266,"Elan, You have been selected to receive a cash prize today This is the final notification.",1,SPAM
+267,"Exclusive reward notice: receive your bonus by responding now Amount: ₹5,000.",1,SPAM
+268,"Your account was selected for an exclusive prize draw Amount: ₹50,000.",1,SPAM
+269,The team won the client award for best project delivery Please contact the coordinator if you have questions.,0,NORMAL
+270,Final reminder: your promotional gift expires today Respond before Tuesday.,1,SPAM
+271,"David, Limited time offer: confirm now to collect your bonus Availability is limited.",1,SPAM
+272,Exclusive reward notice: receive your bonus by responding now Selected reward: gift voucher. Confirmation is required.,1,SPAM
+273,The free software license is available for all employees Please contact the coordinator if you have questions. Further details are available in the portal.,0,NORMAL
+274,Click the link to unlock your promotional cash gift Offer valid tomorrow. The notification was generated automatically.,1,SPAM
+275,You are eligible for a free gift and cash bonus Selected reward: lottery prize. The notification was generated automatically.,1,SPAM
+276,Team update: You won first place in the college coding competition The team will discuss it in the next meeting.,0,NORMAL
+277,"A gift voucher is waiting for you, claim it immediately",1,SPAM
+278,Claim your cash reward using the link before it expires Do not miss this opportunity. Availability is limited.,1,SPAM
+279,Team update: The team won the client award for best project delivery The team will discuss it in the next meeting.,0,NORMAL
+280,"Congratulations, your assignment passed the final review Please complete it by today.",0,NORMAL
+281,"Priya, Congratulations, your assignment passed the final review",0,NORMAL
+282,Congratulations on completing the training program Please contact the coordinator if you have questions. Further details are available in the portal.,0,NORMAL
+283,"A gift voucher is waiting for you, claim it immediately Selected reward: bonus. Confirmation is required.",1,SPAM
+284,The contest winners will receive certificates at college This was discussed in the meeting today.,0,NORMAL
+285,Your reimbursement claim has been approved by finance This was discussed in the meeting Tuesday.,0,NORMAL
+286,Please claim your approved travel reimbursement Please complete it by Tuesday.,0,NORMAL
+287,Team update: Your free Python class starts tomorrow morning,0,NORMAL
+288,Claim your cash reward using the link before it expires,1,SPAM
+289,Congratulations to everyone who won the internal hackathon The attached test results has more details. The team will discuss it in the next meeting.,0,NORMAL
+290,Limited time offer: confirm now to collect your bonus Do not miss this opportunity.,1,SPAM
+291,Reply now to activate your special promotional reward Selected reward: gift voucher.,1,SPAM
+292,"Meena, Congratulations, your assignment passed the final review",0,NORMAL
+293,The cash reimbursement will be credited after approval Please contact the coordinator if you have questions. Please keep this for your records.,0,NORMAL
+294,Please click the attendance link before joining the class This relates to the Python course.,0,NORMAL
+295,Act now to receive the money assigned to your number Selected reward: cash reward. Use the provided message instructions.,1,SPAM
+296,Reply now to activate your special promotional reward Selected reward: special gift.,1,SPAM
+297,Receive an exclusive gift by confirming your contact details Respond before Thursday.,1,SPAM
+298,Your unclaimed prize is ready for immediate collection,1,SPAM
+299,Your free Python class starts tomorrow morning The attached presentation has more details.,0,NORMAL
+300,"Arun, Free lunch will be provided during tomorrow's workshop",0,NORMAL
+301,Congratulations on completing the training program The attached meeting notes has more details.,0,NORMAL
+302,Team update: You won first place in the college coding competition,0,NORMAL
+303,"John, The reward points from your purchase were added to your account No immediate response is required.",0,NORMAL
+304,Important message: Act now to receive the money assigned to your number Confirmation is required.,1,SPAM
+305,"Congratulations, collect your surprise reward today Offer valid today. Use the provided message instructions.",1,SPAM
+306,Receive an exclusive gift by confirming your contact details Respond before tomorrow.,1,SPAM
+307,Urgent project issue: please join the support call This relates to the React course. The coordinator has already been informed.,0,NORMAL
+308,Team update: The team won the client award for best project delivery Further details are available in the portal.,0,NORMAL
+309,Special promotion: claim your free voucher before the deadline Selected reward: promotional reward. This is the final notification.,1,SPAM
+310,Your prize claim is pending; follow the link to complete it Respond before this morning.,1,SPAM
+311,Free lunch will be provided during tomorrow's workshop This relates to the SQL course.,0,NORMAL
+312,Click the link to download the project document This was discussed in the meeting Monday. No immediate response is required.,0,NORMAL
+313,"Priya, Your account password was changed successfully",0,NORMAL
+314,"Congratulations, your mobile number won a lottery reward Do not miss this opportunity.",1,SPAM
+315,Congratulations to everyone who won the internal hackathon This relates to the Playwright course.,0,NORMAL
+316,"Important message: Congratulations, you are eligible for an instant cash benefit Availability is limited.",1,SPAM
+317,The team won the client award for best project delivery This was discussed in the meeting Monday.,0,NORMAL
+318,Please use this link to submit your completed assignment Please contact the coordinator if you have questions.,0,NORMAL
+319,"Elan, Your unclaimed prize is ready for immediate collection",1,SPAM
+320,Immediate action required to release your lottery winnings Selected reward: lottery prize. Use the provided message instructions.,1,SPAM
+321,Claim your cash reward using the link before it expires Offer valid Friday. Use the provided message instructions.,1,SPAM
+322,Congratulations to everyone who won the internal hackathon,0,NORMAL
+323,The project prize ceremony is scheduled for Friday This relates to the Testing course. The coordinator has already been informed.,0,NORMAL
+324,The promotional design draft is ready for team review This was discussed in the meeting Friday. The coordinator has already been informed.,0,NORMAL
+325,Claim your cash reward using the link before it expires Respond before today. Confirmation is required.,1,SPAM
+326,Urgent: verify your details to receive the promised reward Offer valid Friday. Use the provided message instructions.,1,SPAM
+327,Free lunch will be provided during tomorrow's workshop The attached report has more details.,0,NORMAL
+328,The team received a performance reward from management Further details are available in the portal.,0,NORMAL
+329,"Important message: Congratulations, collect your surprise reward today This is the final notification.",1,SPAM
+330,"Priya, The promotional design draft is ready for team review",0,NORMAL
+331,The customer reward report is attached for review The attached invoice has more details.,0,NORMAL
+332,Cash offer available now for selected customers only Respond before Friday.,1,SPAM
+333,Your number was chosen in our lucky draw for a cash award Respond before Tuesday.,1,SPAM
+334,Your account was selected for an exclusive prize draw Do not miss this opportunity.,1,SPAM
+335,Claim your cash reward using the link before it expires Offer valid this morning. Use the provided message instructions.,1,SPAM
+336,Free shopping voucher available after you confirm your entry This is the final notification.,1,SPAM
+337,Please review the account reconciliation document Please complete it by Wednesday. Please keep this for your records.,0,NORMAL
+338,Cash offer available now for selected customers only Selected reward: promotional reward.,1,SPAM
+339,Special promotion: claim your free voucher before the deadline Offer valid Friday.,1,SPAM
+340,Please click the attendance link before joining the class The attached report has more details.,0,NORMAL
+341,"Sara, Congratulations on completing the training program Further details are available in the portal.",0,NORMAL
+342,The team won the client award for best project delivery The attached report has more details.,0,NORMAL
+343,Winner alert: collect your lottery payment before midnight Offer valid Thursday.,1,SPAM
+344,Your unclaimed prize is ready for immediate collection Selected reward: special gift.,1,SPAM
+345,Claim your cash reward using the link before it expires Selected reward: shopping coupon.,1,SPAM
+346,You have been selected to receive a cash prize today Selected reward: promotional reward.,1,SPAM
+347,Receive an exclusive gift by confirming your contact details Amount: ₹500.,1,SPAM
+348,"Sara, Congratulations to everyone who won the internal hackathon",0,NORMAL
+349,"Anu, Congratulations, you are eligible for an instant cash benefit This is the final notification.",1,SPAM
+350,"Congratulations, your mobile number won a lottery reward Respond before Wednesday.",1,SPAM
+351,You are eligible for a free gift and cash bonus Do not miss this opportunity. Use the provided message instructions.,1,SPAM
+352,Your account was selected for an exclusive prize draw Offer valid this evening.,1,SPAM
+353,Click to receive the prize assigned to your account Respond before Friday.,1,SPAM
+354,Your reimbursement claim has been approved by finance This relates to the React course.,0,NORMAL
+355,The cash reimbursement will be credited after approval This was discussed in the meeting Friday. The team will discuss it in the next meeting.,0,NORMAL
+356,You are eligible for a free gift and cash bonus Do not miss this opportunity.,1,SPAM
+357,Please use this link to submit your completed assignment Please complete it by tomorrow. Further details are available in the portal.,0,NORMAL
+358,Click the shared link to access the React source code Please keep this for your records.,0,NORMAL
+359,You won first place in the college coding competition This was discussed in the meeting Thursday.,0,NORMAL
+360,Urgent: verify your details to receive the promised reward,1,SPAM
+361,"Meena, Please use this link to submit your completed assignment",0,NORMAL
+362,"Important message: You qualify for a special cash bonus, respond today Availability is limited.",1,SPAM
+363,"Final reminder: your promotional gift expires today Amount: ₹5,000.",1,SPAM
+364,Final reminder: your promotional gift expires today Selected reward: shopping coupon. Availability is limited.,1,SPAM
+365,Click to receive the prize assigned to your account Selected reward: bonus.,1,SPAM
+366,"Congratulations, your mobile number won a lottery reward Amount: ₹5,000.",1,SPAM
+367,You have been selected to present the project tomorrow Please complete it by Wednesday. No immediate response is required.,0,NORMAL
+368,Urgent winner notification: claim your reward today Selected reward: cash reward. This is the final notification.,1,SPAM
+369,"Congratulations, collect your surprise reward today Do not miss this opportunity.",1,SPAM
+370,"You qualify for a special cash bonus, respond today Do not miss this opportunity.",1,SPAM
+371,Winner alert: collect your lottery payment before midnight Amount: ₹500.,1,SPAM
+372,Exclusive reward notice: receive your bonus by responding now Amount: ₹500.,1,SPAM
+373,Free lunch will be provided during tomorrow's workshop The attached project plan has more details.,0,NORMAL
+374,Free shopping voucher available after you confirm your entry Selected reward: cash reward. Availability is limited.,1,SPAM
+375,"Congratulations, you are eligible for an instant cash benefit Offer valid Wednesday. The notification was generated automatically.",1,SPAM
+376,Open this link to collect the reward reserved for you Respond before tomorrow.,1,SPAM
+377,Your bonus payment is included in this month's salary Please contact the coordinator if you have questions. The coordinator has already been informed.,0,NORMAL
+378,"You qualify for a special cash bonus, respond today Selected reward: special gift. Availability is limited.",1,SPAM
+379,The project prize ceremony is scheduled for Friday,0,NORMAL
+380,Congratulations on completing the training program This was discussed in the meeting Friday.,0,NORMAL
+381,Important message: Receive an exclusive gift by confirming your contact details Use the provided message instructions.,1,SPAM
+382,The customer reward report is attached for review Further details are available in the portal.,0,NORMAL
+383,Team update: The team won the client award for best project delivery,0,NORMAL
+384,"Congratulations, your assignment passed the final review The attached invoice has more details.",0,NORMAL
+385,You are eligible for a free gift and cash bonus Use the provided message instructions.,1,SPAM
+386,Please click the attendance link before joining the class The attached assignment has more details.,0,NORMAL
+387,The customer reward report is attached for review Please contact the coordinator if you have questions.,0,NORMAL
+388,Winner alert: collect your lottery payment before midnight Selected reward: special gift. This is the final notification.,1,SPAM
+389,Act now to receive the money assigned to your number Selected reward: lottery prize. This is the final notification.,1,SPAM
+390,Your account statement is available in the employee portal Please complete it by today.,0,NORMAL
+391,"David, Congratulations, you are eligible for an instant cash benefit Use the provided message instructions.",1,SPAM
+392,You are today's selected winner for our promotional giveaway Offer valid Tuesday.,1,SPAM
+393,"Congratulations, you are eligible for an instant cash benefit Amount: ₹50,000. Confirmation is required.",1,SPAM
+394,Act now to receive the money assigned to your number Selected reward: shopping coupon.,1,SPAM
+395,Please claim your approved travel reimbursement This was discussed in the meeting this weekend. Please keep this for your records.,0,NORMAL
+396,Click the link to unlock your promotional cash gift Selected reward: shopping coupon. The notification was generated automatically.,1,SPAM
+397,"Priya, Free shopping voucher available after you confirm your entry Confirmation is required.",1,SPAM
+398,"Your number was chosen in our lucky draw for a cash award Amount: ₹1,000. Use the provided message instructions.",1,SPAM
+399,You have been selected to present the project tomorrow Please complete it by this evening.,0,NORMAL
+400,"Congratulations, you are eligible for an instant cash benefit Respond before this evening.",1,SPAM
+401,Please review the account reconciliation document Please complete it by this weekend.,0,NORMAL
+402,Your account password was changed successfully The attached schedule has more details.,0,NORMAL
+403,Please open the link and review the meeting notes This relates to the Playwright course. The team will discuss it in the next meeting.,0,NORMAL
+404,The promotional design draft is ready for team review The attached meeting notes has more details.,0,NORMAL
+405,You have been selected to present the project tomorrow This was discussed in the meeting Tuesday. Further details are available in the portal.,0,NORMAL
+406,The contest winners will receive certificates at college This relates to the Machine Learning course.,0,NORMAL
+407,The customer reward report is attached for review This was discussed in the meeting Thursday.,0,NORMAL
+408,You won first place in the college coding competition This relates to the AI course.,0,NORMAL
+409,Important message: You are today's selected winner for our promotional giveaway Use the provided message instructions.,1,SPAM
+410,Your prize claim is pending; follow the link to complete it Do not miss this opportunity.,1,SPAM
+411,Please use this link to submit your completed assignment Please complete it by Wednesday.,0,NORMAL
+412,Please confirm your attendance for the free training session The attached report has more details.,0,NORMAL
+413,"A gift voucher is waiting for you, claim it immediately Respond before Friday.",1,SPAM
+414,The reward points from your purchase were added to your account Please complete it by this morning.,0,NORMAL
+415,The project prize ceremony is scheduled for Friday This was discussed in the meeting Monday.,0,NORMAL
+416,Please use this link to submit your completed assignment This was discussed in the meeting Monday. Please keep this for your records.,0,NORMAL
+417,Please confirm your attendance for the free training session Please complete it by Friday. The coordinator has already been informed.,0,NORMAL
+418,"Important message: Congratulations, collect your surprise reward today Use the provided message instructions.",1,SPAM
+419,Please claim your approved travel reimbursement Please contact the coordinator if you have questions. The coordinator has already been informed.,0,NORMAL
+420,Please open the link and review the meeting notes Please complete it by this evening.,0,NORMAL
+421,"Congratulations, your assignment passed the final review This was discussed in the meeting this weekend.",0,NORMAL
+422,"Cathy, Your free Python class starts tomorrow morning The team will discuss it in the next meeting.",0,NORMAL
+423,The offer letter has been uploaded to the HR portal,0,NORMAL
+424,Important message: Limited time offer: confirm now to collect your bonus Confirmation is required.,1,SPAM
+425,You won first place in the college coding competition The attached meeting notes has more details. No immediate response is required.,0,NORMAL
+426,Team update: The contest winners will receive certificates at college No immediate response is required.,0,NORMAL
+427,"Congratulations, your mobile number won a lottery reward Offer valid this weekend.",1,SPAM
+428,Act now to receive the money assigned to your number,1,SPAM
+429,Free shopping voucher available after you confirm your entry Offer valid this evening.,1,SPAM
+430,The cash reimbursement will be credited after approval The team will discuss it in the next meeting.,0,NORMAL
+431,"Anu, Limited time offer: confirm now to collect your bonus Confirmation is required.",1,SPAM
+432,"Cathy, Congratulations to everyone who won the internal hackathon",0,NORMAL
+433,Click the shared link to access the React source code Please contact the coordinator if you have questions.,0,NORMAL
+434,You have won a promotional bonus; claim it using this link Selected reward: shopping coupon.,1,SPAM
+435,Your account statement is available in the employee portal This relates to the Playwright course. Please keep this for your records.,0,NORMAL
+436,"Ravi, Please open the link and review the meeting notes The coordinator has already been informed.",0,NORMAL
+437,The free software license is available for all employees This was discussed in the meeting Thursday.,0,NORMAL
+438,You are eligible for a free gift and cash bonus Offer valid Monday. Availability is limited.,1,SPAM
+439,"Kumar, Reply now to activate your special promotional reward",1,SPAM
+440,"Congratulations, you are eligible for an instant cash benefit Offer valid this morning. The notification was generated automatically.",1,SPAM
+441,The cash reimbursement will be credited after approval Please complete it by Tuesday. The coordinator has already been informed.,0,NORMAL
+442,Your bonus payment is included in this month's salary The attached invoice has more details.,0,NORMAL
+443,Team update: Please click the attendance link before joining the class The team will discuss it in the next meeting.,0,NORMAL
+444,Important message: You have been selected to receive a cash prize today,1,SPAM
+445,"Sara, Congratulations on completing the training program",0,NORMAL
+446,"Congratulations, your mobile number won a lottery reward",1,SPAM
+447,Your reimbursement claim has been approved by finance No immediate response is required.,0,NORMAL
+448,Click the link to unlock your promotional cash gift Offer valid this evening.,1,SPAM
+449,Please review the account reconciliation document This was discussed in the meeting Wednesday.,0,NORMAL
+450,Urgent winner notification: claim your reward today Do not miss this opportunity.,1,SPAM
+451,Click to receive the prize assigned to your account Availability is limited.,1,SPAM
+452,Your account password was changed successfully This was discussed in the meeting Monday.,0,NORMAL
+453,Please claim your approved travel reimbursement Please contact the coordinator if you have questions.,0,NORMAL
+454,Congratulations on completing the training program Please contact the coordinator if you have questions.,0,NORMAL
+455,Urgent winner notification: claim your reward today,1,SPAM
+456,The promotional design draft is ready for team review Please contact the coordinator if you have questions.,0,NORMAL
+457,Your free Python class starts tomorrow morning Please complete it by this evening.,0,NORMAL
+458,"Your account was selected for an exclusive prize draw Amount: ₹10,000.",1,SPAM
+459,"Ravi, Your free Python class starts tomorrow morning",0,NORMAL
+460,Important message: Limited time offer: confirm now to collect your bonus Availability is limited.,1,SPAM
+461,Urgent winner notification: claim your reward today This is the final notification.,1,SPAM
+462,Your number was chosen in our lucky draw for a cash award Offer valid Monday.,1,SPAM
+463,Please confirm your attendance for the free training session This was discussed in the meeting tomorrow. No immediate response is required.,0,NORMAL
+464,The team received a performance reward from management Please contact the coordinator if you have questions.,0,NORMAL
+465,Congratulations to everyone who won the internal hackathon Please contact the coordinator if you have questions.,0,NORMAL
+466,The project prize ceremony is scheduled for Friday The attached schedule has more details. Please keep this for your records.,0,NORMAL
+467,"A gift voucher is waiting for you, claim it immediately Offer valid Thursday.",1,SPAM
+468,The reward points from your purchase were added to your account Further details are available in the portal.,0,NORMAL
+469,Congratulations to everyone who won the internal hackathon This relates to the Testing course. No immediate response is required.,0,NORMAL
+470,The contest winners will receive certificates at college Please contact the coordinator if you have questions. The team will discuss it in the next meeting.,0,NORMAL
+471,Exclusive reward notice: receive your bonus by responding now Offer valid tomorrow.,1,SPAM
+472,Please confirm your attendance for the free training session This was discussed in the meeting this morning.,0,NORMAL
+473,Free shopping voucher available after you confirm your entry Respond before Tuesday.,1,SPAM
+474,"You qualify for a special cash bonus, respond today Use the provided message instructions.",1,SPAM
+475,"Cathy, You won first place in the college coding competition",0,NORMAL
+476,"Cathy, Congratulations, collect your surprise reward today Confirmation is required.",1,SPAM
+477,"Meena, The team received a performance reward from management",0,NORMAL
+478,"You qualify for a special cash bonus, respond today Respond before tomorrow.",1,SPAM
+479,The free software license is available for all employees Please contact the coordinator if you have questions. Please keep this for your records.,0,NORMAL
+480,Free lunch will be provided during tomorrow's workshop This relates to the Playwright course.,0,NORMAL
+481,Urgent project issue: please join the support call The attached schedule has more details.,0,NORMAL
+482,The customer reward report is attached for review Please complete it by Tuesday.,0,NORMAL
+483,"Arun, Open this link to collect the reward reserved for you",1,SPAM
+484,Your reimbursement claim has been approved by finance,0,NORMAL
+485,Team update: The promotional design draft is ready for team review No immediate response is required.,0,NORMAL
+486,"Cathy, Click the shared link to access the React source code",0,NORMAL
+487,Your free Python class starts tomorrow morning No immediate response is required.,0,NORMAL
+488,Click the link to download the project document The attached document has more details.,0,NORMAL
+489,You have been selected to receive a cash prize today,1,SPAM
+490,"Congratulations, your mobile number won a lottery reward Respond before Monday.",1,SPAM
+491,Your number was chosen in our lucky draw for a cash award Selected reward: bonus.,1,SPAM
+492,Immediate action required to release your lottery winnings Offer valid this weekend.,1,SPAM
+493,Important message: Special promotion: claim your free voucher before the deadline Use the provided message instructions.,1,SPAM
+494,The team won the client award for best project delivery The attached meeting notes has more details.,0,NORMAL
+495,Open this link to collect the reward reserved for you Do not miss this opportunity.,1,SPAM
+496,Please open the link and review the meeting notes Please contact the coordinator if you have questions.,0,NORMAL
+497,"Anu, Your account statement is available in the employee portal No immediate response is required.",0,NORMAL
+498,"Anu, Your unclaimed prize is ready for immediate collection",1,SPAM
+499,Team update: Please review the account reconciliation document,0,NORMAL
+500,Your bonus payment is included in this month's salary Please contact the coordinator if you have questions.,0,NORMAL
+501,Your account was selected for an exclusive prize draw Respond before Monday.,1,SPAM
+502,The promotional design draft is ready for team review This relates to the Machine Learning course. No immediate response is required.,0,NORMAL
+503,Your bonus payment is included in this month's salary The attached document has more details. Please keep this for your records.,0,NORMAL
+504,The customer reward report is attached for review This was discussed in the meeting Wednesday.,0,NORMAL
+505,The free software license is available for all employees This relates to the Testing course.,0,NORMAL
+506,The team won the client award for best project delivery This was discussed in the meeting this weekend. The coordinator has already been informed.,0,NORMAL
+507,Free shopping voucher available after you confirm your entry Offer valid tomorrow. Confirmation is required.,1,SPAM
+508,Claim your cash reward using the link before it expires Amount: ₹500.,1,SPAM
+509,The project prize ceremony is scheduled for Friday Please contact the coordinator if you have questions.,0,NORMAL
+510,"Congratulations, you are eligible for an instant cash benefit Amount: ₹500.",1,SPAM
+511,Cash offer available now for selected customers only Availability is limited.,1,SPAM
+512,Click the link to unlock your promotional cash gift Amount: ₹500.,1,SPAM
+513,"Meena, Receive an exclusive gift by confirming your contact details",1,SPAM
+514,You won first place in the college coding competition This relates to the Testing course.,0,NORMAL
+515,Reply now to activate your special promotional reward Do not miss this opportunity. This is the final notification.,1,SPAM
+516,The free software license is available for all employees Please complete it by today.,0,NORMAL
+517,Team update: The free software license is available for all employees,0,NORMAL
+518,"Sara, Cash offer available now for selected customers only This is the final notification.",1,SPAM
+519,Please click the attendance link before joining the class Further details are available in the portal.,0,NORMAL
+520,You are today's selected winner for our promotional giveaway Offer valid tomorrow.,1,SPAM
+521,Your account password was changed successfully This was discussed in the meeting Wednesday.,0,NORMAL
+522,Your reimbursement claim has been approved by finance This was discussed in the meeting this evening.,0,NORMAL
+523,You are eligible for a free gift and cash bonus Offer valid Thursday. Use the provided message instructions.,1,SPAM
+524,Winner alert: collect your lottery payment before midnight Do not miss this opportunity.,1,SPAM
+525,You are eligible for a free gift and cash bonus Selected reward: special gift.,1,SPAM
+526,Special promotion: claim your free voucher before the deadline Do not miss this opportunity. Confirmation is required.,1,SPAM
+527,"You qualify for a special cash bonus, respond today Availability is limited.",1,SPAM
+528,You have been selected to present the project tomorrow,0,NORMAL
+529,Free lunch will be provided during tomorrow's workshop The attached source code has more details. Please keep this for your records.,0,NORMAL
+530,Team update: Urgent project issue: please join the support call No immediate response is required.,0,NORMAL
+531,"Meena, You qualify for a special cash bonus, respond today",1,SPAM
+532,The customer reward report is attached for review Please contact the coordinator if you have questions. No immediate response is required.,0,NORMAL
+533,"Ravi, You are today's selected winner for our promotional giveaway Confirmation is required.",1,SPAM
+534,Final reminder: your promotional gift expires today,1,SPAM
+535,Claim your cash reward using the link before it expires Amount: ₹500. Use the provided message instructions.,1,SPAM
+536,Congratulations on completing the training program This relates to the SQL course.,0,NORMAL
+537,Your account statement is available in the employee portal This relates to the SQL course.,0,NORMAL
+538,"Bala, Congratulations, your mobile number won a lottery reward Availability is limited.",1,SPAM
+539,"You qualify for a special cash bonus, respond today Selected reward: special gift.",1,SPAM
+540,You have been selected to present the project tomorrow This was discussed in the meeting tomorrow.,0,NORMAL
+541,Important message: You are today's selected winner for our promotional giveaway The notification was generated automatically.,1,SPAM
+542,The reward points from your purchase were added to your account Please contact the coordinator if you have questions.,0,NORMAL
+543,"Congratulations, you are eligible for an instant cash benefit Availability is limited.",1,SPAM
+544,The customer reward report is attached for review This was discussed in the meeting Thursday. The team will discuss it in the next meeting.,0,NORMAL
+545,Important message: You are today's selected winner for our promotional giveaway,1,SPAM
+546,Free shopping voucher available after you confirm your entry Do not miss this opportunity. The notification was generated automatically.,1,SPAM
+547,The project prize ceremony is scheduled for Friday This relates to the Java course.,0,NORMAL
+548,You have been selected to present the project tomorrow This was discussed in the meeting Thursday.,0,NORMAL
+549,The customer reward report is attached for review This was discussed in the meeting this evening.,0,NORMAL
+550,"Congratulations, collect your surprise reward today Selected reward: promotional reward.",1,SPAM
+551,Your bonus payment is included in this month's salary Please complete it by today. Please keep this for your records.,0,NORMAL
+552,Please use this link to submit your completed assignment This relates to the Machine Learning course.,0,NORMAL
+553,"Arun, Claim your cash reward using the link before it expires",1,SPAM
+554,Special promotion: claim your free voucher before the deadline Respond before Friday.,1,SPAM
+555,Cash offer available now for selected customers only Offer valid today. Availability is limited.,1,SPAM
+556,"Cathy, Urgent: verify your details to receive the promised reward The notification was generated automatically.",1,SPAM
+557,"Reply now to activate your special promotional reward Amount: ₹1,000.",1,SPAM
+558,Please open the link and review the meeting notes Further details are available in the portal.,0,NORMAL
+559,Please click the attendance link before joining the class The attached project plan has more details.,0,NORMAL
+560,Congratulations on completing the training program This relates to the Java course.,0,NORMAL
+561,Please review the account reconciliation document Please complete it by today.,0,NORMAL
+562,Open this link to collect the reward reserved for you Selected reward: shopping coupon. This is the final notification.,1,SPAM
+563,"Open this link to collect the reward reserved for you Amount: ₹1,000.",1,SPAM
+564,Your account statement is available in the employee portal Please complete it by tomorrow.,0,NORMAL
+565,"Cathy, The project prize ceremony is scheduled for Friday No immediate response is required.",0,NORMAL
+566,Your free Python class starts tomorrow morning The attached report has more details. No immediate response is required.,0,NORMAL
+567,"Sara, Your account password was changed successfully",0,NORMAL
+568,Reply now to activate your special promotional reward,1,SPAM
+569,"Ravi, Open this link to collect the reward reserved for you",1,SPAM
+570,The offer letter has been uploaded to the HR portal Please contact the coordinator if you have questions.,0,NORMAL
+571,Your reimbursement claim has been approved by finance Please contact the coordinator if you have questions. Please keep this for your records.,0,NORMAL
+572,The cash reimbursement will be credited after approval Please contact the coordinator if you have questions. No immediate response is required.,0,NORMAL
+573,"A gift voucher is waiting for you, claim it immediately Respond before this weekend. The notification was generated automatically.",1,SPAM
+574,Final reminder: your promotional gift expires today Respond before this weekend.,1,SPAM
+575,Urgent winner notification: claim your reward today Selected reward: lottery prize.,1,SPAM
+576,Final reminder: your promotional gift expires today Respond before Wednesday. Confirmation is required.,1,SPAM
+577,The free software license is available for all employees The attached source code has more details.,0,NORMAL
+578,"Bala, The reward points from your purchase were added to your account",0,NORMAL
+579,"Elan, The cash reimbursement will be credited after approval",0,NORMAL
+580,You won first place in the college coding competition This relates to the Machine Learning course. The coordinator has already been informed.,0,NORMAL
+581,Receive an exclusive gift by confirming your contact details Do not miss this opportunity.,1,SPAM
+582,Please claim your approved travel reimbursement Please complete it by Monday. No immediate response is required.,0,NORMAL
+583,Your bonus payment is included in this month's salary The attached schedule has more details. The team will discuss it in the next meeting.,0,NORMAL
+584,Urgent project issue: please join the support call Please contact the coordinator if you have questions.,0,NORMAL
+585,The team won the client award for best project delivery This relates to the FastAPI course.,0,NORMAL
+586,Claim your cash reward using the link before it expires Selected reward: gift voucher.,1,SPAM
+587,Open this link to collect the reward reserved for you Offer valid Friday. Confirmation is required.,1,SPAM
+588,The cash reimbursement will be credited after approval Please complete it by today.,0,NORMAL
+589,"Congratulations, you are eligible for an instant cash benefit Offer valid Monday.",1,SPAM
+590,Please click the attendance link before joining the class,0,NORMAL
+591,"Congratulations, your mobile number won a lottery reward Amount: ₹2,500.",1,SPAM
+592,Team update: Congratulations to everyone who won the internal hackathon The team will discuss it in the next meeting.,0,NORMAL
+593,Team update: The customer reward report is attached for review,0,NORMAL
+594,"John, Winner alert: collect your lottery payment before midnight",1,SPAM
+595,"Ravi, Please use this link to submit your completed assignment",0,NORMAL
+596,Team update: The project prize ceremony is scheduled for Friday Further details are available in the portal.,0,NORMAL
+597,"Bala, Click to receive the prize assigned to your account Use the provided message instructions.",1,SPAM
+598,You are today's selected winner for our promotional giveaway Do not miss this opportunity.,1,SPAM
+599,Please click the attendance link before joining the class Please contact the coordinator if you have questions. The coordinator has already been informed.,0,NORMAL
+600,Team update: Congratulations on completing the training program Please keep this for your records.,0,NORMAL
+601,"Congratulations, collect your surprise reward today Respond before Tuesday.",1,SPAM
+602,Claim your cash reward using the link before it expires Offer valid this evening.,1,SPAM
+603,"Priya, Your number was chosen in our lucky draw for a cash award The notification was generated automatically.",1,SPAM
+604,"Act now to receive the money assigned to your number Amount: ₹5,000.",1,SPAM
+605,Congratulations to everyone who won the internal hackathon This relates to the FastAPI course.,0,NORMAL
+606,"Congratulations, collect your surprise reward today Offer valid Wednesday.",1,SPAM
+607,Please confirm your attendance for the free training session,0,NORMAL
+608,Your account statement is available in the employee portal The team will discuss it in the next meeting.,0,NORMAL
+609,Please review the account reconciliation document The attached presentation has more details.,0,NORMAL
+610,Click the link to download the project document This was discussed in the meeting tomorrow.,0,NORMAL
+611,Winner alert: collect your lottery payment before midnight Selected reward: shopping coupon.,1,SPAM
+612,The team won the client award for best project delivery Please complete it by Tuesday. The coordinator has already been informed.,0,NORMAL
+613,"Congratulations, collect your surprise reward today Selected reward: cash reward.",1,SPAM
+614,"Sara, Please click the attendance link before joining the class",0,NORMAL
+615,Please use this link to submit your completed assignment Please complete it by tomorrow.,0,NORMAL
+616,"Immediate action required to release your lottery winnings Amount: ₹2,500.",1,SPAM
+617,Free shopping voucher available after you confirm your entry Selected reward: cash reward.,1,SPAM
+618,The cash reimbursement will be credited after approval This was discussed in the meeting this evening.,0,NORMAL
+619,Your bonus payment is included in this month's salary Please complete it by today.,0,NORMAL
+620,You have been selected to present the project tomorrow This relates to the AI course. The coordinator has already been informed.,0,NORMAL
+621,"A gift voucher is waiting for you, claim it immediately Amount: ₹2,500. Availability is limited.",1,SPAM
+622,The free software license is available for all employees Please complete it by Friday. No immediate response is required.,0,NORMAL
+623,Your free Python class starts tomorrow morning This relates to the Machine Learning course. The coordinator has already been informed.,0,NORMAL
+624,Your unclaimed prize is ready for immediate collection Selected reward: lottery prize.,1,SPAM
+625,Click the link to download the project document Please complete it by Wednesday.,0,NORMAL
+626,"John, A gift voucher is waiting for you, claim it immediately The notification was generated automatically.",1,SPAM
+627,Click to receive the prize assigned to your account Offer valid Friday.,1,SPAM
+628,"Cathy, Your account password was changed successfully",0,NORMAL
+629,The team won the client award for best project delivery This relates to the Testing course.,0,NORMAL
+630,Winner alert: collect your lottery payment before midnight Respond before today. Availability is limited.,1,SPAM
+631,"Winner alert: collect your lottery payment before midnight Amount: ₹2,500. Confirmation is required.",1,SPAM
+632,Urgent winner notification: claim your reward today Respond before Friday. The notification was generated automatically.,1,SPAM
+633,"Sara, Final reminder: your promotional gift expires today",1,SPAM
+634,The promotional design draft is ready for team review Please complete it by this weekend.,0,NORMAL
+635,Please confirm your attendance for the free training session The attached source code has more details. No immediate response is required.,0,NORMAL
+636,"Bala, The contest winners will receive certificates at college Further details are available in the portal.",0,NORMAL
+637,Claim your cash reward using the link before it expires Respond before Tuesday. Confirmation is required.,1,SPAM
+638,Please open the link and review the meeting notes Please complete it by Tuesday. The team will discuss it in the next meeting.,0,NORMAL
+639,Your bonus payment is included in this month's salary The attached assignment has more details. Please keep this for your records.,0,NORMAL
+640,Important message: Receive an exclusive gift by confirming your contact details,1,SPAM
+641,Cash offer available now for selected customers only,1,SPAM
+642,Your free Python class starts tomorrow morning The attached schedule has more details.,0,NORMAL
+643,"Your account was selected for an exclusive prize draw Amount: ₹5,000.",1,SPAM
+644,Important message: Final reminder: your promotional gift expires today,1,SPAM
+645,"Congratulations, collect your surprise reward today Selected reward: bonus. Availability is limited.",1,SPAM
+646,Exclusive reward notice: receive your bonus by responding now Respond before today.,1,SPAM
+647,"Cathy, Free shopping voucher available after you confirm your entry",1,SPAM
+648,"Bala, Please open the link and review the meeting notes",0,NORMAL
+649,"Priya, A gift voucher is waiting for you, claim it immediately",1,SPAM
+650,Please click the attendance link before joining the class The coordinator has already been informed.,0,NORMAL
+651,Please confirm your attendance for the free training session This was discussed in the meeting today.,0,NORMAL
+652,Congratulations to everyone who won the internal hackathon The attached invoice has more details. No immediate response is required.,0,NORMAL
+653,The reward points from your purchase were added to your account This relates to the AI course. The coordinator has already been informed.,0,NORMAL
+654,Important message: Your account was selected for an exclusive prize draw,1,SPAM
+655,The team won the client award for best project delivery This was discussed in the meeting Tuesday. No immediate response is required.,0,NORMAL
+656,Please click the attendance link before joining the class Please contact the coordinator if you have questions. The team will discuss it in the next meeting.,0,NORMAL
+657,You have been selected to present the project tomorrow The attached meeting notes has more details.,0,NORMAL
+658,Your reimbursement claim has been approved by finance The attached schedule has more details. The coordinator has already been informed.,0,NORMAL
+659,Exclusive reward notice: receive your bonus by responding now Selected reward: cash reward.,1,SPAM
+660,"Important message: Congratulations, your mobile number won a lottery reward",1,SPAM
+661,Click the shared link to access the React source code Please complete it by Friday. No immediate response is required.,0,NORMAL
+662,"Congratulations, your mobile number won a lottery reward Amount: ₹5,000. The notification was generated automatically.",1,SPAM
+663,Free lunch will be provided during tomorrow's workshop Please complete it by tomorrow.,0,NORMAL
+664,You won first place in the college coding competition This was discussed in the meeting Wednesday.,0,NORMAL
+665,The cash reimbursement will be credited after approval The attached source code has more details.,0,NORMAL
+666,Your free Python class starts tomorrow morning Please complete it by today.,0,NORMAL
+667,"Kumar, Please confirm your attendance for the free training session No immediate response is required.",0,NORMAL
+668,You have won a promotional bonus; claim it using this link Selected reward: shopping coupon. The notification was generated automatically.,1,SPAM
+669,The contest winners will receive certificates at college,0,NORMAL
+670,Please open the link and review the meeting notes This relates to the Testing course.,0,NORMAL
+671,Team update: Please claim your approved travel reimbursement Please keep this for your records.,0,NORMAL
+672,Please use this link to submit your completed assignment The team will discuss it in the next meeting.,0,NORMAL
+673,Team update: The offer letter has been uploaded to the HR portal The team will discuss it in the next meeting.,0,NORMAL
+674,Congratulations to everyone who won the internal hackathon Please complete it by Wednesday. Please keep this for your records.,0,NORMAL
+675,Your account statement is available in the employee portal Please contact the coordinator if you have questions. The coordinator has already been informed.,0,NORMAL
+676,Your prize claim is pending; follow the link to complete it Respond before Monday. Use the provided message instructions.,1,SPAM
+677,The promotional design draft is ready for team review The attached schedule has more details. Please keep this for your records.,0,NORMAL
+678,Your account statement is available in the employee portal The attached invoice has more details.,0,NORMAL
+679,Your account was selected for an exclusive prize draw Do not miss this opportunity. Availability is limited.,1,SPAM
+680,Claim your cash reward using the link before it expires Respond before this morning.,1,SPAM
+681,"Important message: Congratulations, you are eligible for an instant cash benefit Use the provided message instructions.",1,SPAM
+682,"Elan, Click the link to download the project document",0,NORMAL
+683,Final reminder: your promotional gift expires today Availability is limited.,1,SPAM
+684,"Important message: You qualify for a special cash bonus, respond today",1,SPAM
+685,Please review the account reconciliation document This relates to the SQL course. Please keep this for your records.,0,NORMAL
+686,Your account was selected for an exclusive prize draw,1,SPAM
+687,"Important message: Congratulations, you are eligible for an instant cash benefit",1,SPAM
+688,You have been selected to present the project tomorrow The attached assignment has more details.,0,NORMAL
+689,"Sara, The contest winners will receive certificates at college",0,NORMAL
+690,Immediate action required to release your lottery winnings Offer valid this evening. Availability is limited.,1,SPAM
+691,Urgent project issue: please join the support call,0,NORMAL
+692,Claim your cash reward using the link before it expires Selected reward: special gift. This is the final notification.,1,SPAM
+693,"Congratulations, your mobile number won a lottery reward Amount: ₹50,000.",1,SPAM
+694,"A gift voucher is waiting for you, claim it immediately Offer valid Wednesday. The notification was generated automatically.",1,SPAM
+695,Your account password was changed successfully Further details are available in the portal.,0,NORMAL
+696,Important message: Your number was chosen in our lucky draw for a cash award,1,SPAM
+697,The offer letter has been uploaded to the HR portal No immediate response is required.,0,NORMAL
+698,"Limited time offer: confirm now to collect your bonus Amount: ₹10,000. Availability is limited.",1,SPAM
+699,"Congratulations, you are eligible for an instant cash benefit Selected reward: bonus. Confirmation is required.",1,SPAM
+700,"John, Claim your cash reward using the link before it expires",1,SPAM
+701,Exclusive reward notice: receive your bonus by responding now Selected reward: bonus. This is the final notification.,1,SPAM
+702,Free lunch will be provided during tomorrow's workshop Please keep this for your records.,0,NORMAL
+703,"A gift voucher is waiting for you, claim it immediately Amount: ₹500.",1,SPAM
+704,"Anu, Your account password was changed successfully",0,NORMAL
+705,Act now to receive the money assigned to your number Respond before today. Confirmation is required.,1,SPAM
+706,Congratulations on completing the training program This relates to the React course.,0,NORMAL
+707,Important message: You have been selected to receive a cash prize today Use the provided message instructions.,1,SPAM
+708,Your bonus payment is included in this month's salary This relates to the React course. Please keep this for your records.,0,NORMAL
+709,"Meena, The contest winners will receive certificates at college",0,NORMAL
+710,Congratulations to everyone who won the internal hackathon The attached assignment has more details. Please keep this for your records.,0,NORMAL
+711,Team update: Click the shared link to access the React source code,0,NORMAL
+712,Please review the account reconciliation document This relates to the Machine Learning course. Further details are available in the portal.,0,NORMAL
+713,Cash offer available now for selected customers only Offer valid today.,1,SPAM
+714,You have been selected to receive a cash prize today Respond before Wednesday. Confirmation is required.,1,SPAM
+715,Your unclaimed prize is ready for immediate collection Selected reward: gift voucher.,1,SPAM
+716,"Cathy, Click the link to download the project document",0,NORMAL
+717,"David, The reward points from your purchase were added to your account",0,NORMAL
+718,"Urgent: verify your details to receive the promised reward Amount: ₹5,000.",1,SPAM
+719,"Ravi, Please review the account reconciliation document No immediate response is required.",0,NORMAL
+720,Your reimbursement claim has been approved by finance The attached invoice has more details. The team will discuss it in the next meeting.,0,NORMAL
+721,Free lunch will be provided during tomorrow's workshop This relates to the Java course.,0,NORMAL
+722,Your reimbursement claim has been approved by finance Please contact the coordinator if you have questions.,0,NORMAL
+723,"Limited time offer: confirm now to collect your bonus Amount: ₹5,000.",1,SPAM
+724,Congratulations on completing the training program Please contact the coordinator if you have questions. The coordinator has already been informed.,0,NORMAL
+725,The free software license is available for all employees This was discussed in the meeting this evening.,0,NORMAL
+726,"Cathy, You have won a promotional bonus; claim it using this link The notification was generated automatically.",1,SPAM
+727,Your free Python class starts tomorrow morning,0,NORMAL
+728,Final reminder: your promotional gift expires today Respond before this evening. Availability is limited.,1,SPAM
+729,Please review the account reconciliation document Please contact the coordinator if you have questions. The team will discuss it in the next meeting.,0,NORMAL
+730,"Meena, Please confirm your attendance for the free training session",0,NORMAL
+731,Please review the account reconciliation document,0,NORMAL
+732,Team update: The project prize ceremony is scheduled for Friday,0,NORMAL
+733,Free lunch will be provided during tomorrow's workshop This was discussed in the meeting Wednesday.,0,NORMAL
+734,"Congratulations, you are eligible for an instant cash benefit Offer valid Wednesday.",1,SPAM
+735,The reward points from your purchase were added to your account,0,NORMAL
+736,Urgent: verify your details to receive the promised reward Respond before this evening.,1,SPAM
+737,The cash reimbursement will be credited after approval Please complete it by Wednesday. The team will discuss it in the next meeting.,0,NORMAL
+738,You are today's selected winner for our promotional giveaway Selected reward: cash reward.,1,SPAM
+739,Your account password was changed successfully This relates to the Java course. No immediate response is required.,0,NORMAL
+740,Your reimbursement claim has been approved by finance The attached meeting notes has more details.,0,NORMAL
+741,"Claim your cash reward using the link before it expires Amount: ₹5,000.",1,SPAM
+742,Limited time offer: confirm now to collect your bonus Offer valid Tuesday.,1,SPAM
+743,The offer letter has been uploaded to the HR portal This relates to the SQL course. Please keep this for your records.,0,NORMAL
+744,The project prize ceremony is scheduled for Friday The attached project plan has more details.,0,NORMAL
+745,Your free Python class starts tomorrow morning The attached assignment has more details. No immediate response is required.,0,NORMAL
+746,Your prize claim is pending; follow the link to complete it Selected reward: promotional reward.,1,SPAM
+747,"John, Limited time offer: confirm now to collect your bonus",1,SPAM
+748,Please confirm your attendance for the free training session This was discussed in the meeting this morning. No immediate response is required.,0,NORMAL
+749,Urgent: verify your details to receive the promised reward Offer valid Friday. The notification was generated automatically.,1,SPAM
+750,Limited time offer: confirm now to collect your bonus Respond before today. The notification was generated automatically.,1,SPAM
+751,Important message: Click to receive the prize assigned to your account The notification was generated automatically.,1,SPAM
+752,Your bonus payment is included in this month's salary,0,NORMAL
+753,Your unclaimed prize is ready for immediate collection Offer valid today. The notification was generated automatically.,1,SPAM
+754,Click the link to unlock your promotional cash gift Do not miss this opportunity. The notification was generated automatically.,1,SPAM
+755,"David, Please claim your approved travel reimbursement",0,NORMAL
+756,"Your number was chosen in our lucky draw for a cash award Amount: ₹10,000. Use the provided message instructions.",1,SPAM
+757,Congratulations on completing the training program This relates to the Python course.,0,NORMAL
+758,The promotional design draft is ready for team review,0,NORMAL
+759,"Urgent winner notification: claim your reward today Amount: ₹2,500.",1,SPAM
+760,Final reminder: your promotional gift expires today Selected reward: cash reward.,1,SPAM
+761,Click the link to download the project document This relates to the SQL course. The coordinator has already been informed.,0,NORMAL
+762,The team won the client award for best project delivery The attached project plan has more details.,0,NORMAL
+763,Your account was selected for an exclusive prize draw Respond before today.,1,SPAM
+764,Congratulations to everyone who won the internal hackathon Please complete it by Thursday.,0,NORMAL
+765,Important message: Free shopping voucher available after you confirm your entry Confirmation is required.,1,SPAM
+766,"Congratulations, your mobile number won a lottery reward Offer valid tomorrow.",1,SPAM
+767,Urgent project issue: please join the support call Please complete it by today.,0,NORMAL
+768,"Congratulations, you are eligible for an instant cash benefit Selected reward: cash reward. Confirmation is required.",1,SPAM
+769,"Arun, Please click the attendance link before joining the class The coordinator has already been informed.",0,NORMAL
+770,The cash reimbursement will be credited after approval This was discussed in the meeting Wednesday.,0,NORMAL
+771,Team update: The reward points from your purchase were added to your account,0,NORMAL
+772,The reward points from your purchase were added to your account This relates to the FastAPI course.,0,NORMAL
+773,Exclusive reward notice: receive your bonus by responding now Do not miss this opportunity. The notification was generated automatically.,1,SPAM
+774,Your number was chosen in our lucky draw for a cash award Respond before this weekend.,1,SPAM
+775,Your free Python class starts tomorrow morning Please contact the coordinator if you have questions.,0,NORMAL
+776,Your account statement is available in the employee portal This was discussed in the meeting Wednesday.,0,NORMAL
+777,The free software license is available for all employees This was discussed in the meeting Thursday. No immediate response is required.,0,NORMAL
+778,Exclusive reward notice: receive your bonus by responding now This is the final notification.,1,SPAM
+779,"David, Urgent: verify your details to receive the promised reward Availability is limited.",1,SPAM
+780,Please click the attendance link before joining the class This was discussed in the meeting Wednesday. The coordinator has already been informed.,0,NORMAL
+781,Click the link to download the project document The attached project plan has more details. The coordinator has already been informed.,0,NORMAL
+782,Click the link to download the project document The attached invoice has more details. The team will discuss it in the next meeting.,0,NORMAL
+783,Your bonus payment is included in this month's salary Please complete it by Tuesday. The coordinator has already been informed.,0,NORMAL
+784,Your unclaimed prize is ready for immediate collection Respond before Monday. The notification was generated automatically.,1,SPAM
+785,"Sara, Click to receive the prize assigned to your account",1,SPAM
+786,Your unclaimed prize is ready for immediate collection Selected reward: shopping coupon. The notification was generated automatically.,1,SPAM
+787,Claim your cash reward using the link before it expires Offer valid Tuesday.,1,SPAM
+788,You won first place in the college coding competition This was discussed in the meeting Friday. The team will discuss it in the next meeting.,0,NORMAL
+789,You are eligible for a free gift and cash bonus Respond before Friday. Availability is limited.,1,SPAM
+790,"Congratulations, you are eligible for an instant cash benefit Respond before Friday.",1,SPAM
+791,Important message: You have been selected to receive a cash prize today Availability is limited.,1,SPAM
+792,Team update: Please use this link to submit your completed assignment,0,NORMAL
+793,Click to receive the prize assigned to your account Respond before this weekend.,1,SPAM
+794,"Sara, The team received a performance reward from management The team will discuss it in the next meeting.",0,NORMAL
+795,Limited time offer: confirm now to collect your bonus Selected reward: gift voucher.,1,SPAM
+796,The cash reimbursement will be credited after approval This was discussed in the meeting this evening. Please keep this for your records.,0,NORMAL
+797,"Sara, Free lunch will be provided during tomorrow's workshop",0,NORMAL
+798,Important message: Reply now to activate your special promotional reward,1,SPAM
+799,Congratulations on completing the training program This was discussed in the meeting today.,0,NORMAL
+800,"Meena, Click the link to unlock your promotional cash gift",1,SPAM
+801,The promotional design draft is ready for team review Please complete it by Monday.,0,NORMAL
+802,Claim your cash reward using the link before it expires Offer valid this evening. The notification was generated automatically.,1,SPAM
+803,Limited time offer: confirm now to collect your bonus Selected reward: special gift.,1,SPAM
+804,Exclusive reward notice: receive your bonus by responding now,1,SPAM
+805,You won first place in the college coding competition This relates to the SQL course. No immediate response is required.,0,NORMAL
+806,Important message: Limited time offer: confirm now to collect your bonus,1,SPAM
+807,You won first place in the college coding competition This was discussed in the meeting tomorrow. The team will discuss it in the next meeting.,0,NORMAL
+808,You won first place in the college coding competition Please contact the coordinator if you have questions. The team will discuss it in the next meeting.,0,NORMAL
+809,"You have won a promotional bonus; claim it using this link Amount: ₹5,000.",1,SPAM
+810,"Congratulations, collect your surprise reward today",1,SPAM
+811,The project prize ceremony is scheduled for Friday This was discussed in the meeting this morning.,0,NORMAL
+812,Congratulations to everyone who won the internal hackathon Please complete it by today.,0,NORMAL
+813,Congratulations on completing the training program This relates to the Playwright course. Please keep this for your records.,0,NORMAL
+814,"Arun, Your number was chosen in our lucky draw for a cash award Confirmation is required.",1,SPAM
+815,Your bonus payment is included in this month's salary This relates to the Python course.,0,NORMAL
+816,Important message: Act now to receive the money assigned to your number Use the provided message instructions.,1,SPAM
+817,"Elan, Receive an exclusive gift by confirming your contact details",1,SPAM
+818,Urgent: verify your details to receive the promised reward Selected reward: special gift.,1,SPAM
+819,Limited time offer: confirm now to collect your bonus,1,SPAM
+820,Please review the account reconciliation document Please contact the coordinator if you have questions. Please keep this for your records.,0,NORMAL
+821,The team received a performance reward from management This was discussed in the meeting this morning.,0,NORMAL
+822,"Congratulations, your mobile number won a lottery reward Amount: ₹1,000. Availability is limited.",1,SPAM
+823,"John, The contest winners will receive certificates at college",0,NORMAL
+824,Please claim your approved travel reimbursement This was discussed in the meeting Friday.,0,NORMAL
+825,"Sara, The team won the client award for best project delivery",0,NORMAL
+826,Limited time offer: confirm now to collect your bonus Offer valid Wednesday.,1,SPAM
+827,Your free Python class starts tomorrow morning Please complete it by Friday.,0,NORMAL
+828,Please claim your approved travel reimbursement The attached report has more details.,0,NORMAL
+829,"Cathy, The project prize ceremony is scheduled for Friday The coordinator has already been informed.",0,NORMAL
+830,You have won a promotional bonus; claim it using this link Selected reward: bonus.,1,SPAM
+831,Please confirm your attendance for the free training session This relates to the AI course.,0,NORMAL
+832,You have been selected to receive a cash prize today Offer valid Friday.,1,SPAM
+833,"Congratulations, your assignment passed the final review The attached schedule has more details. The team will discuss it in the next meeting.",0,NORMAL
+834,"Important message: Congratulations, your mobile number won a lottery reward Availability is limited.",1,SPAM
+835,Important message: Your account was selected for an exclusive prize draw The notification was generated automatically.,1,SPAM
+836,Exclusive reward notice: receive your bonus by responding now Respond before Tuesday.,1,SPAM
+837,The customer reward report is attached for review Please complete it by this evening.,0,NORMAL
+838,Click the link to download the project document The team will discuss it in the next meeting.,0,NORMAL
+839,Congratulations on completing the training program Please complete it by this evening.,0,NORMAL
+840,Please confirm your attendance for the free training session The attached presentation has more details.,0,NORMAL
+841,The offer letter has been uploaded to the HR portal This was discussed in the meeting today.,0,NORMAL
+842,"Elan, Your reimbursement claim has been approved by finance",0,NORMAL
+843,You have been selected to present the project tomorrow Please contact the coordinator if you have questions. Please keep this for your records.,0,NORMAL
+844,"Ravi, Winner alert: collect your lottery payment before midnight",1,SPAM
+845,"Anu, Cash offer available now for selected customers only",1,SPAM
+846,The team won the client award for best project delivery Further details are available in the portal.,0,NORMAL
+847,Please use this link to submit your completed assignment,0,NORMAL
+848,Your unclaimed prize is ready for immediate collection Do not miss this opportunity.,1,SPAM
+849,Free lunch will be provided during tomorrow's workshop This relates to the Java course. The coordinator has already been informed.,0,NORMAL
+850,Important message: Click the link to unlock your promotional cash gift Confirmation is required.,1,SPAM
+851,Your bonus payment is included in this month's salary This relates to the Machine Learning course.,0,NORMAL
+852,"A gift voucher is waiting for you, claim it immediately Respond before this morning.",1,SPAM
+853,Please review the account reconciliation document Please complete it by Tuesday. Further details are available in the portal.,0,NORMAL
+854,Please claim your approved travel reimbursement,0,NORMAL
+855,Free lunch will be provided during tomorrow's workshop,0,NORMAL
+856,You have been selected to present the project tomorrow This was discussed in the meeting this weekend.,0,NORMAL
+857,"Cathy, Your free Python class starts tomorrow morning",0,NORMAL
+858,You are today's selected winner for our promotional giveaway Selected reward: gift voucher.,1,SPAM
+859,Please review the account reconciliation document This was discussed in the meeting Monday.,0,NORMAL
+860,Final reminder: your promotional gift expires today Respond before this morning.,1,SPAM
+861,Please review the account reconciliation document This relates to the React course. The team will discuss it in the next meeting.,0,NORMAL
+862,Immediate action required to release your lottery winnings Offer valid Tuesday.,1,SPAM
+863,Winner alert: collect your lottery payment before midnight Do not miss this opportunity. The notification was generated automatically.,1,SPAM
+864,Immediate action required to release your lottery winnings Offer valid Wednesday.,1,SPAM
+865,The customer reward report is attached for review This relates to the Testing course.,0,NORMAL
+866,"Urgent winner notification: claim your reward today Amount: ₹5,000.",1,SPAM
+867,Your account password was changed successfully,0,NORMAL
+868,The free software license is available for all employees Please complete it by Wednesday. The team will discuss it in the next meeting.,0,NORMAL
+869,Open this link to collect the reward reserved for you,1,SPAM
+870,Important message: Claim your cash reward using the link before it expires,1,SPAM
+871,Immediate action required to release your lottery winnings Selected reward: cash reward. The notification was generated automatically.,1,SPAM
+872,Your account was selected for an exclusive prize draw Amount: ₹500.,1,SPAM
+873,Team update: Urgent project issue: please join the support call,0,NORMAL
+874,Cash offer available now for selected customers only Respond before Thursday.,1,SPAM
+875,The free software license is available for all employees Please complete it by tomorrow.,0,NORMAL
+876,The team won the client award for best project delivery This relates to the Java course. Further details are available in the portal.,0,NORMAL
+877,The project prize ceremony is scheduled for Friday The attached test results has more details.,0,NORMAL
+878,Free lunch will be provided during tomorrow's workshop Please contact the coordinator if you have questions. The coordinator has already been informed.,0,NORMAL
+879,Your account was selected for an exclusive prize draw Availability is limited.,1,SPAM
+880,Team update: Free lunch will be provided during tomorrow's workshop,0,NORMAL
+881,"Sara, Act now to receive the money assigned to your number",1,SPAM
+882,The promotional design draft is ready for team review This was discussed in the meeting this morning.,0,NORMAL
+883,Your account was selected for an exclusive prize draw Selected reward: promotional reward.,1,SPAM
+884,You have won a promotional bonus; claim it using this link Offer valid Monday.,1,SPAM
+885,Please confirm your attendance for the free training session This relates to the Java course.,0,NORMAL
+886,"Arun, Reply now to activate your special promotional reward",1,SPAM
+887,Click to receive the prize assigned to your account Amount: ₹500. Confirmation is required.,1,SPAM
+888,Your unclaimed prize is ready for immediate collection Do not miss this opportunity. Availability is limited.,1,SPAM
+889,Urgent project issue: please join the support call The attached meeting notes has more details.,0,NORMAL
+890,"Your prize claim is pending; follow the link to complete it Amount: ₹10,000.",1,SPAM
+891,Important message: Exclusive reward notice: receive your bonus by responding now Availability is limited.,1,SPAM
+892,Reply now to activate your special promotional reward Offer valid tomorrow.,1,SPAM
+893,"Your prize claim is pending; follow the link to complete it Amount: ₹50,000.",1,SPAM
+894,Please claim your approved travel reimbursement This was discussed in the meeting Thursday. The team will discuss it in the next meeting.,0,NORMAL
+895,Receive an exclusive gift by confirming your contact details Selected reward: cash reward. This is the final notification.,1,SPAM
+896,"A gift voucher is waiting for you, claim it immediately Amount: ₹5,000.",1,SPAM
+897,"Sara, You have won a promotional bonus; claim it using this link Confirmation is required.",1,SPAM
+898,Exclusive reward notice: receive your bonus by responding now Selected reward: gift voucher.,1,SPAM
+899,The team won the client award for best project delivery This was discussed in the meeting tomorrow.,0,NORMAL
+900,You are eligible for a free gift and cash bonus Offer valid tomorrow.,1,SPAM
+901,Important message: Click the link to unlock your promotional cash gift The notification was generated automatically.,1,SPAM
+902,"Arun, Click the link to unlock your promotional cash gift",1,SPAM
+903,"Your unclaimed prize is ready for immediate collection Amount: ₹50,000. This is the final notification.",1,SPAM
+904,Cash offer available now for selected customers only Offer valid this evening.,1,SPAM
+905,You won first place in the college coding competition Please contact the coordinator if you have questions. Further details are available in the portal.,0,NORMAL
+906,Urgent: verify your details to receive the promised reward This is the final notification.,1,SPAM
+907,"Urgent winner notification: claim your reward today Amount: ₹25,000. This is the final notification.",1,SPAM
+908,Immediate action required to release your lottery winnings Selected reward: promotional reward.,1,SPAM
+909,You won first place in the college coding competition The attached schedule has more details. Please keep this for your records.,0,NORMAL
+910,The offer letter has been uploaded to the HR portal Please keep this for your records.,0,NORMAL
+911,The cash reimbursement will be credited after approval This relates to the FastAPI course.,0,NORMAL
+912,Free lunch will be provided during tomorrow's workshop Please contact the coordinator if you have questions. The team will discuss it in the next meeting.,0,NORMAL
+913,Please use this link to submit your completed assignment No immediate response is required.,0,NORMAL
+914,Please confirm your attendance for the free training session The attached presentation has more details. Please keep this for your records.,0,NORMAL
+915,"David, Click the shared link to access the React source code",0,NORMAL
+916,You have been selected to receive a cash prize today Offer valid Thursday.,1,SPAM
+917,"Ravi, You have won a promotional bonus; claim it using this link This is the final notification.",1,SPAM
+918,"Congratulations, your mobile number won a lottery reward Respond before Tuesday.",1,SPAM
+919,You won first place in the college coding competition The attached meeting notes has more details.,0,NORMAL
+920,You have won a promotional bonus; claim it using this link Selected reward: cash reward.,1,SPAM
+921,You won first place in the college coding competition This was discussed in the meeting Thursday. No immediate response is required.,0,NORMAL
+922,Click the shared link to access the React source code This relates to the FastAPI course.,0,NORMAL
+923,"Anu, The contest winners will receive certificates at college",0,NORMAL
+924,"David, Click the link to download the project document The team will discuss it in the next meeting.",0,NORMAL
+925,"A gift voucher is waiting for you, claim it immediately Amount: ₹1,000.",1,SPAM
+926,Team update: Please click the attendance link before joining the class The coordinator has already been informed.,0,NORMAL
+927,Please review the account reconciliation document The attached document has more details.,0,NORMAL
+928,The promotional design draft is ready for team review The attached test results has more details.,0,NORMAL
+929,Congratulations to everyone who won the internal hackathon The attached invoice has more details.,0,NORMAL
+930,"Free shopping voucher available after you confirm your entry Amount: ₹5,000.",1,SPAM
+931,"Meena, Cash offer available now for selected customers only",1,SPAM
+932,Team update: The customer reward report is attached for review The coordinator has already been informed.,0,NORMAL
+933,Your free Python class starts tomorrow morning This relates to the Machine Learning course.,0,NORMAL
+934,Your prize claim is pending; follow the link to complete it Offer valid Friday.,1,SPAM
+935,Important message: Reply now to activate your special promotional reward The notification was generated automatically.,1,SPAM
+936,Team update: Please confirm your attendance for the free training session,0,NORMAL
+937,"John, You have been selected to receive a cash prize today",1,SPAM
+938,Team update: Click the link to download the project document,0,NORMAL
+939,"Cathy, Receive an exclusive gift by confirming your contact details Availability is limited.",1,SPAM
+940,"Ravi, Urgent winner notification: claim your reward today",1,SPAM
+941,"Congratulations, you are eligible for an instant cash benefit Amount: ₹2,500.",1,SPAM
+942,Team update: The project prize ceremony is scheduled for Friday Please keep this for your records.,0,NORMAL
+943,"Congratulations, collect your surprise reward today Respond before Monday.",1,SPAM
+944,Congratulations on completing the training program Please complete it by this morning. The coordinator has already been informed.,0,NORMAL
+945,Congratulations on completing the training program This was discussed in the meeting this weekend.,0,NORMAL
+946,Team update: Your account password was changed successfully,0,NORMAL
+947,Urgent project issue: please join the support call This was discussed in the meeting this weekend. Please keep this for your records.,0,NORMAL
+948,Congratulations on completing the training program The attached presentation has more details.,0,NORMAL
+949,"You qualify for a special cash bonus, respond today Respond before this morning. This is the final notification.",1,SPAM
+950,Receive an exclusive gift by confirming your contact details Offer valid Thursday. The notification was generated automatically.,1,SPAM
+951,Team update: Congratulations on completing the training program Further details are available in the portal.,0,NORMAL
+952,You are today's selected winner for our promotional giveaway Use the provided message instructions.,1,SPAM
+953,Urgent: verify your details to receive the promised reward Selected reward: cash reward.,1,SPAM
+954,The contest winners will receive certificates at college The attached test results has more details.,0,NORMAL
+955,"Congratulations, you are eligible for an instant cash benefit Do not miss this opportunity.",1,SPAM
+956,Free lunch will be provided during tomorrow's workshop This relates to the AI course.,0,NORMAL
+957,The customer reward report is attached for review This was discussed in the meeting Friday.,0,NORMAL
+958,"You qualify for a special cash bonus, respond today Respond before Wednesday.",1,SPAM
+959,Important message: Urgent: verify your details to receive the promised reward Confirmation is required.,1,SPAM
+960,Free shopping voucher available after you confirm your entry Respond before Monday.,1,SPAM
+961,"A gift voucher is waiting for you, claim it immediately Offer valid this morning.",1,SPAM
+962,Click the shared link to access the React source code Please complete it by this evening. The team will discuss it in the next meeting.,0,NORMAL
+963,"Cathy, You are today's selected winner for our promotional giveaway",1,SPAM
+964,"John, Your prize claim is pending; follow the link to complete it This is the final notification.",1,SPAM
+965,The offer letter has been uploaded to the HR portal This was discussed in the meeting this morning. The coordinator has already been informed.,0,NORMAL
+966,Click the shared link to access the React source code This was discussed in the meeting Tuesday. Please keep this for your records.,0,NORMAL
+967,The contest winners will receive certificates at college Please complete it by Tuesday.,0,NORMAL
+968,Act now to receive the money assigned to your number Respond before tomorrow.,1,SPAM
+969,Your prize claim is pending; follow the link to complete it Do not miss this opportunity. This is the final notification.,1,SPAM
+970,"Ravi, Claim your cash reward using the link before it expires",1,SPAM
+971,Click the link to unlock your promotional cash gift Do not miss this opportunity. This is the final notification.,1,SPAM
+972,"Congratulations, your assignment passed the final review The coordinator has already been informed.",0,NORMAL
+973,The team received a performance reward from management This relates to the React course.,0,NORMAL
+974,"Ravi, You have been selected to receive a cash prize today Confirmation is required.",1,SPAM
+975,Team update: Congratulations on completing the training program,0,NORMAL
+976,"Sara, The cash reimbursement will be credited after approval",0,NORMAL
+977,The free software license is available for all employees Please complete it by Friday.,0,NORMAL
+978,The team won the client award for best project delivery This was discussed in the meeting this morning. Further details are available in the portal.,0,NORMAL
+979,Please click the attendance link before joining the class Please complete it by today.,0,NORMAL
+980,Urgent winner notification: claim your reward today Offer valid this weekend.,1,SPAM
+981,Important message: Free shopping voucher available after you confirm your entry,1,SPAM
+982,The reward points from your purchase were added to your account Please complete it by Monday. No immediate response is required.,0,NORMAL
+983,Winner alert: collect your lottery payment before midnight Respond before Wednesday.,1,SPAM
+984,Cash offer available now for selected customers only Selected reward: special gift.,1,SPAM
+985,"A gift voucher is waiting for you, claim it immediately Do not miss this opportunity. The notification was generated automatically.",1,SPAM
+986,The promotional design draft is ready for team review Please complete it by Tuesday.,0,NORMAL
+987,Special promotion: claim your free voucher before the deadline Availability is limited.,1,SPAM
+988,Congratulations on completing the training program The attached invoice has more details.,0,NORMAL
+989,Limited time offer: confirm now to collect your bonus Offer valid Friday.,1,SPAM
+990,You have been selected to present the project tomorrow The attached invoice has more details. Please keep this for your records.,0,NORMAL
+991,"A gift voucher is waiting for you, claim it immediately Respond before today.",1,SPAM
+992,Team update: Please use this link to submit your completed assignment Further details are available in the portal.,0,NORMAL
+993,"You qualify for a special cash bonus, respond today Selected reward: cash reward.",1,SPAM
+994,Your bonus payment is included in this month's salary The attached document has more details.,0,NORMAL
+995,You are today's selected winner for our promotional giveaway Offer valid this evening. Use the provided message instructions.,1,SPAM
+996,Team update: Please open the link and review the meeting notes,0,NORMAL
+997,"Bala, Receive an exclusive gift by confirming your contact details The notification was generated automatically.",1,SPAM
+998,Open this link to collect the reward reserved for you Selected reward: lottery prize.,1,SPAM
+999,"Cathy, Immediate action required to release your lottery winnings",1,SPAM
+1000,Important message: Click to receive the prize assigned to your account,1,SPAM
+1001,Open this link to collect the reward reserved for you Amount: ₹500. Use the provided message instructions.,1,SPAM
+1002,The team won the client award for best project delivery This was discussed in the meeting Friday.,0,NORMAL
+1003,"Congratulations, you are eligible for an instant cash benefit Amount: ₹10,000.",1,SPAM
+1004,Click to receive the prize assigned to your account Selected reward: gift voucher.,1,SPAM
+1005,Please claim your approved travel reimbursement The coordinator has already been informed.,0,NORMAL
+1006,You have won a promotional bonus; claim it using this link Respond before tomorrow.,1,SPAM
+1007,You are today's selected winner for our promotional giveaway,1,SPAM
+1008,"Receive an exclusive gift by confirming your contact details Amount: ₹5,000. The notification was generated automatically.",1,SPAM
+1009,Important message: Exclusive reward notice: receive your bonus by responding now,1,SPAM
+1010,"Congratulations, you are eligible for an instant cash benefit Selected reward: shopping coupon.",1,SPAM
+1011,Your account password was changed successfully The attached presentation has more details. The team will discuss it in the next meeting.,0,NORMAL
+1012,Please open the link and review the meeting notes,0,NORMAL
+1013,Team update: The team received a performance reward from management The team will discuss it in the next meeting.,0,NORMAL
+1014,Important message: Special promotion: claim your free voucher before the deadline,1,SPAM
+1015,The customer reward report is attached for review,0,NORMAL
+1016,The free software license is available for all employees Please complete it by this weekend.,0,NORMAL
+1017,Important message: Your number was chosen in our lucky draw for a cash award Availability is limited.,1,SPAM
+1018,"Winner alert: collect your lottery payment before midnight Amount: ₹5,000.",1,SPAM
+1019,The team won the client award for best project delivery Please complete it by Wednesday.,0,NORMAL
+1020,Urgent: verify your details to receive the promised reward Do not miss this opportunity. Availability is limited.,1,SPAM
+1021,The team won the client award for best project delivery This relates to the FastAPI course. Please keep this for your records.,0,NORMAL
+1022,Click the link to unlock your promotional cash gift Selected reward: promotional reward. Availability is limited.,1,SPAM
+1023,Your account was selected for an exclusive prize draw Offer valid Wednesday.,1,SPAM
+1024,Click the shared link to access the React source code Please complete it by Friday.,0,NORMAL
+1025,You are eligible for a free gift and cash bonus Respond before this morning. Use the provided message instructions.,1,SPAM
+1026,Please click the attendance link before joining the class This was discussed in the meeting Thursday.,0,NORMAL
+1027,The offer letter has been uploaded to the HR portal The attached report has more details.,0,NORMAL
+1028,"Anu, The cash reimbursement will be credited after approval The coordinator has already been informed.",0,NORMAL
+1029,Team update: You won first place in the college coding competition Further details are available in the portal.,0,NORMAL
+1030,"John, Cash offer available now for selected customers only This is the final notification.",1,SPAM
+1031,Cash offer available now for selected customers only Selected reward: cash reward. The notification was generated automatically.,1,SPAM
+1032,Winner alert: collect your lottery payment before midnight Respond before Thursday. The notification was generated automatically.,1,SPAM
+1033,Free lunch will be provided during tomorrow's workshop This relates to the Machine Learning course.,0,NORMAL
+1034,Your account password was changed successfully Please complete it by this evening.,0,NORMAL
+1035,Team update: Your bonus payment is included in this month's salary The coordinator has already been informed.,0,NORMAL
+1036,Cash offer available now for selected customers only Selected reward: bonus.,1,SPAM
+1037,You are today's selected winner for our promotional giveaway Selected reward: lottery prize.,1,SPAM
+1038,"David, Congratulations, your mobile number won a lottery reward Confirmation is required.",1,SPAM
+1039,The free software license is available for all employees Please contact the coordinator if you have questions.,0,NORMAL
+1040,The project prize ceremony is scheduled for Friday The attached source code has more details.,0,NORMAL
+1041,The team received a performance reward from management This was discussed in the meeting this evening. The coordinator has already been informed.,0,NORMAL
+1042,Winner alert: collect your lottery payment before midnight Offer valid this evening. The notification was generated automatically.,1,SPAM
+1043,"Anu, Please use this link to submit your completed assignment Please keep this for your records.",0,NORMAL
+1044,Please claim your approved travel reimbursement This relates to the FastAPI course.,0,NORMAL
+1045,"Congratulations, collect your surprise reward today Respond before this weekend.",1,SPAM
+1046,Important message: Immediate action required to release your lottery winnings Availability is limited.,1,SPAM
+1047,Team update: Your bonus payment is included in this month's salary,0,NORMAL
+1048,The reward points from your purchase were added to your account This was discussed in the meeting tomorrow. No immediate response is required.,0,NORMAL
+1049,Exclusive reward notice: receive your bonus by responding now Offer valid Friday.,1,SPAM
+1050,"Sara, Your account password was changed successfully No immediate response is required.",0,NORMAL
+1051,"Kumar, You have been selected to present the project tomorrow Please keep this for your records.",0,NORMAL
+1052,Team update: Your free Python class starts tomorrow morning The coordinator has already been informed.,0,NORMAL
+1053,"John, Congratulations, collect your surprise reward today",1,SPAM
+1054,Special promotion: claim your free voucher before the deadline Respond before this evening. Confirmation is required.,1,SPAM
+1055,"Ravi, Your bonus payment is included in this month's salary",0,NORMAL
+1056,"You qualify for a special cash bonus, respond today Respond before Thursday.",1,SPAM
+1057,"Cathy, The cash reimbursement will be credited after approval",0,NORMAL
+1058,The team won the client award for best project delivery Please contact the coordinator if you have questions. The team will discuss it in the next meeting.,0,NORMAL
+1059,"Team update: Congratulations, your assignment passed the final review Please keep this for your records.",0,NORMAL
+1060,You are eligible for a free gift and cash bonus Offer valid Friday.,1,SPAM
+1061,Urgent winner notification: claim your reward today Respond before this weekend. The notification was generated automatically.,1,SPAM
+1062,"Elan, The free software license is available for all employees Please keep this for your records.",0,NORMAL
+1063,Limited time offer: confirm now to collect your bonus Selected reward: cash reward.,1,SPAM
+1064,Special promotion: claim your free voucher before the deadline Use the provided message instructions.,1,SPAM
+1065,Congratulations on completing the training program The attached source code has more details.,0,NORMAL
+1066,Receive an exclusive gift by confirming your contact details Selected reward: bonus. The notification was generated automatically.,1,SPAM
+1067,Free shopping voucher available after you confirm your entry Offer valid this weekend.,1,SPAM
+1068,Urgent: verify your details to receive the promised reward The notification was generated automatically.,1,SPAM
+1069,Team update: The team received a performance reward from management,0,NORMAL
+1070,Immediate action required to release your lottery winnings Do not miss this opportunity.,1,SPAM
+1071,Claim your cash reward using the link before it expires Selected reward: bonus. The notification was generated automatically.,1,SPAM
+1072,Your free Python class starts tomorrow morning The attached project plan has more details. The coordinator has already been informed.,0,NORMAL
+1073,The offer letter has been uploaded to the HR portal This relates to the Testing course. Please keep this for your records.,0,NORMAL
+1074,"Congratulations, your assignment passed the final review This was discussed in the meeting this evening.",0,NORMAL
+1075,Click the link to download the project document Please contact the coordinator if you have questions. Further details are available in the portal.,0,NORMAL
+1076,Your account was selected for an exclusive prize draw Offer valid tomorrow. Use the provided message instructions.,1,SPAM
+1077,Special promotion: claim your free voucher before the deadline,1,SPAM
+1078,Final reminder: your promotional gift expires today Selected reward: promotional reward.,1,SPAM
+1079,Limited time offer: confirm now to collect your bonus Offer valid this morning.,1,SPAM
+1080,Cash offer available now for selected customers only Do not miss this opportunity.,1,SPAM
+1081,You are today's selected winner for our promotional giveaway Offer valid Thursday. Use the provided message instructions.,1,SPAM
+1082,"Priya, Final reminder: your promotional gift expires today",1,SPAM
+1083,Click to receive the prize assigned to your account Offer valid Monday.,1,SPAM
+1084,Urgent project issue: please join the support call The attached invoice has more details.,0,NORMAL
+1085,The cash reimbursement will be credited after approval Please contact the coordinator if you have questions.,0,NORMAL
+1086,"Anu, The team won the client award for best project delivery No immediate response is required.",0,NORMAL
+1087,Team update: Your reimbursement claim has been approved by finance,0,NORMAL
+1088,Click the shared link to access the React source code Please complete it by tomorrow. No immediate response is required.,0,NORMAL
+1089,"Congratulations, you are eligible for an instant cash benefit Respond before today.",1,SPAM
+1090,The offer letter has been uploaded to the HR portal The attached meeting notes has more details.,0,NORMAL
+1091,Important message: Winner alert: collect your lottery payment before midnight This is the final notification.,1,SPAM
+1092,You won first place in the college coding competition The team will discuss it in the next meeting.,0,NORMAL
+1093,Click the shared link to access the React source code This was discussed in the meeting tomorrow.,0,NORMAL
+1094,Urgent project issue: please join the support call Please complete it by Tuesday.,0,NORMAL
+1095,Please confirm your attendance for the free training session This relates to the Testing course.,0,NORMAL
+1096,Urgent project issue: please join the support call The attached invoice has more details. Please keep this for your records.,0,NORMAL
+1097,"Cathy, The offer letter has been uploaded to the HR portal No immediate response is required.",0,NORMAL
+1098,"Congratulations, collect your surprise reward today Selected reward: shopping coupon.",1,SPAM
+1099,Congratulations on completing the training program Please complete it by today. Please keep this for your records.,0,NORMAL
+1100,"Congratulations, you are eligible for an instant cash benefit Do not miss this opportunity. Availability is limited.",1,SPAM
+1101,Important message: Special promotion: claim your free voucher before the deadline Confirmation is required.,1,SPAM
+1102,Congratulations to everyone who won the internal hackathon The attached report has more details.,0,NORMAL
+1103,"You qualify for a special cash bonus, respond today",1,SPAM
+1104,Important message: Act now to receive the money assigned to your number The notification was generated automatically.,1,SPAM
+1105,"Reply now to activate your special promotional reward Amount: ₹50,000.",1,SPAM
+1106,Open this link to collect the reward reserved for you Use the provided message instructions.,1,SPAM
+1107,Congratulations to everyone who won the internal hackathon Please complete it by tomorrow.,0,NORMAL
+1108,"A gift voucher is waiting for you, claim it immediately Selected reward: shopping coupon.",1,SPAM
+1109,"Final reminder: your promotional gift expires today Amount: ₹5,000. Confirmation is required.",1,SPAM
+1110,The free software license is available for all employees Please complete it by this weekend. Please keep this for your records.,0,NORMAL
+1111,Urgent project issue: please join the support call The attached test results has more details. The team will discuss it in the next meeting.,0,NORMAL
+1112,Important message: Your unclaimed prize is ready for immediate collection,1,SPAM
+1113,Please click the attendance link before joining the class Please complete it by Monday.,0,NORMAL
+1114,"Elan, Congratulations to everyone who won the internal hackathon The team will discuss it in the next meeting.",0,NORMAL
+1115,"Anu, You have been selected to present the project tomorrow",0,NORMAL
+1116,Please open the link and review the meeting notes The attached project plan has more details.,0,NORMAL
+1117,"Claim your cash reward using the link before it expires Amount: ₹2,500. The notification was generated automatically.",1,SPAM
+1118,Please click the attendance link before joining the class This was discussed in the meeting this evening.,0,NORMAL
+1119,Your account statement is available in the employee portal,0,NORMAL
+1120,Act now to receive the money assigned to your number Do not miss this opportunity. Confirmation is required.,1,SPAM
+1121,Your free Python class starts tomorrow morning The coordinator has already been informed.,0,NORMAL
+1122,The cash reimbursement will be credited after approval The attached test results has more details.,0,NORMAL
+1123,"Congratulations, your mobile number won a lottery reward Selected reward: special gift. Availability is limited.",1,SPAM
+1124,Final reminder: your promotional gift expires today Selected reward: promotional reward. The notification was generated automatically.,1,SPAM
+1125,Click the shared link to access the React source code This relates to the AI course.,0,NORMAL
+1126,Immediate action required to release your lottery winnings Selected reward: gift voucher.,1,SPAM
+1127,"Winner alert: collect your lottery payment before midnight Amount: ₹50,000.",1,SPAM
+1128,You are today's selected winner for our promotional giveaway Respond before this evening.,1,SPAM
+1129,"Ravi, Click to receive the prize assigned to your account The notification was generated automatically.",1,SPAM
+1130,"Arun, The free software license is available for all employees",0,NORMAL
+1131,Special promotion: claim your free voucher before the deadline Selected reward: lottery prize.,1,SPAM
+1132,Your reimbursement claim has been approved by finance Please complete it by tomorrow. Further details are available in the portal.,0,NORMAL
+1133,The contest winners will receive certificates at college This relates to the Java course. Further details are available in the portal.,0,NORMAL
+1134,Your account was selected for an exclusive prize draw Offer valid tomorrow. This is the final notification.,1,SPAM
+1135,"You have won a promotional bonus; claim it using this link Amount: ₹10,000. The notification was generated automatically.",1,SPAM
+1136,Please use this link to submit your completed assignment This was discussed in the meeting Monday. Further details are available in the portal.,0,NORMAL
+1137,"Congratulations, your mobile number won a lottery reward Selected reward: promotional reward. The notification was generated automatically.",1,SPAM
+1138,The project prize ceremony is scheduled for Friday Please complete it by Friday. Further details are available in the portal.,0,NORMAL
+1139,"Ravi, Free lunch will be provided during tomorrow's workshop",0,NORMAL
+1140,The team received a performance reward from management Please complete it by Friday.,0,NORMAL
+1141,Cash offer available now for selected customers only Amount: ₹500.,1,SPAM
+1142,"Congratulations, collect your surprise reward today Respond before tomorrow.",1,SPAM
+1143,Important message: Act now to receive the money assigned to your number Availability is limited.,1,SPAM
+1144,"Kumar, Exclusive reward notice: receive your bonus by responding now",1,SPAM
+1145,Your number was chosen in our lucky draw for a cash award Selected reward: promotional reward.,1,SPAM
+1146,Your reimbursement claim has been approved by finance This relates to the Machine Learning course.,0,NORMAL
+1147,Your account password was changed successfully Please complete it by Wednesday. No immediate response is required.,0,NORMAL
+1148,You are eligible for a free gift and cash bonus Amount: ₹500. Use the provided message instructions.,1,SPAM
+1149,"Priya, Receive an exclusive gift by confirming your contact details",1,SPAM
+1150,"Act now to receive the money assigned to your number Amount: ₹50,000.",1,SPAM
+1151,"Sara, Claim your cash reward using the link before it expires",1,SPAM
+1152,You won first place in the college coding competition,0,NORMAL
+1153,Limited time offer: confirm now to collect your bonus Respond before Monday.,1,SPAM
+1154,Please click the attendance link before joining the class The attached invoice has more details.,0,NORMAL
+1155,Click the shared link to access the React source code,0,NORMAL
+1156,"Final reminder: your promotional gift expires today Amount: ₹1,000. Availability is limited.",1,SPAM
+1157,"Ravi, Your account statement is available in the employee portal",0,NORMAL
+1158,Free shopping voucher available after you confirm your entry Respond before today. Availability is limited.,1,SPAM
+1159,Congratulations on completing the training program Please complete it by Thursday.,0,NORMAL
+1160,Free lunch will be provided during tomorrow's workshop The attached invoice has more details.,0,NORMAL
+1161,Urgent: verify your details to receive the promised reward Do not miss this opportunity.,1,SPAM
+1162,Cash offer available now for selected customers only Offer valid Friday.,1,SPAM
+1163,The promotional design draft is ready for team review Please contact the coordinator if you have questions. The coordinator has already been informed.,0,NORMAL
+1164,The contest winners will receive certificates at college The attached assignment has more details.,0,NORMAL
+1165,The contest winners will receive certificates at college This relates to the React course. The team will discuss it in the next meeting.,0,NORMAL
+1166,Click the link to unlock your promotional cash gift Do not miss this opportunity.,1,SPAM
+1167,Free lunch will be provided during tomorrow's workshop Please contact the coordinator if you have questions.,0,NORMAL
+1168,Exclusive reward notice: receive your bonus by responding now Do not miss this opportunity. Confirmation is required.,1,SPAM
+1169,The team received a performance reward from management Please complete it by this evening.,0,NORMAL
+1170,"Arun, Act now to receive the money assigned to your number This is the final notification.",1,SPAM
+1171,Your free Python class starts tomorrow morning This relates to the React course.,0,NORMAL
+1172,Team update: The offer letter has been uploaded to the HR portal,0,NORMAL
+1173,Click the link to unlock your promotional cash gift,1,SPAM
+1174,Cash offer available now for selected customers only Offer valid this weekend.,1,SPAM
+1175,"Cathy, Congratulations, your assignment passed the final review",0,NORMAL
+1176,The reward points from your purchase were added to your account The attached presentation has more details.,0,NORMAL
+1177,Your account password was changed successfully This was discussed in the meeting this evening.,0,NORMAL
+1178,"Congratulations, your mobile number won a lottery reward Amount: ₹25,000.",1,SPAM
+1179,The contest winners will receive certificates at college Please complete it by tomorrow. The team will discuss it in the next meeting.,0,NORMAL
+1180,"Ravi, The project prize ceremony is scheduled for Friday The coordinator has already been informed.",0,NORMAL
+1181,Please review the account reconciliation document The attached test results has more details.,0,NORMAL
+1182,The offer letter has been uploaded to the HR portal This relates to the AI course.,0,NORMAL
+1183,The customer reward report is attached for review The attached document has more details.,0,NORMAL
+1184,You have been selected to receive a cash prize today Do not miss this opportunity.,1,SPAM
+1185,Immediate action required to release your lottery winnings Amount: ₹500. Use the provided message instructions.,1,SPAM
+1186,Please use this link to submit your completed assignment The attached schedule has more details. Please keep this for your records.,0,NORMAL
+1187,Your reimbursement claim has been approved by finance The attached document has more details.,0,NORMAL
+1188,"Elan, Your bonus payment is included in this month's salary",0,NORMAL
+1189,Act now to receive the money assigned to your number Selected reward: bonus.,1,SPAM
+1190,Congratulations to everyone who won the internal hackathon The attached project plan has more details. No immediate response is required.,0,NORMAL
+1191,Congratulations to everyone who won the internal hackathon Please complete it by this evening. Further details are available in the portal.,0,NORMAL
+1192,The team received a performance reward from management The attached assignment has more details.,0,NORMAL
+1193,"Click to receive the prize assigned to your account Amount: ₹25,000. Availability is limited.",1,SPAM
+1194,Congratulations on completing the training program,0,NORMAL
+1195,Urgent project issue: please join the support call The attached project plan has more details.,0,NORMAL
+1196,Team update: The reward points from your purchase were added to your account The team will discuss it in the next meeting.,0,NORMAL
+1197,"Bala, Urgent: verify your details to receive the promised reward This is the final notification.",1,SPAM
+1198,Please click the attendance link before joining the class This relates to the Machine Learning course.,0,NORMAL
+1199,Reply now to activate your special promotional reward Offer valid Friday. Use the provided message instructions.,1,SPAM
+1200,"Important message: Congratulations, your mobile number won a lottery reward Confirmation is required.",1,SPAM
